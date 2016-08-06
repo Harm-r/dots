@@ -1,0 +1,646 @@
+20160506T101319:1:[config:load_from_disk] Unable to open configuration file for reading - using defaults
+20160506T101319:1:[config:load_from_disk] Unable to open configuration file for reading - using defaults
+20160506T101319:5:
+
+********************* Starting RescueTime *********************
+20160506T101319:41:[qt_ui:create_system_tray] Current Thread ID: 139822423730048
+20160506T101319:1:QTDBG - Setting tray icon and menu after ...
+20160506T101405:5:
+
+********************* Starting RescueTime *********************
+20160506T101405:41:[qt_ui:create_system_tray] Current Thread ID: 139713826654080
+20160506T101405:1:QTDBG - Setting tray icon and menu after ...
+20160506T101412:5:
+
+********************* Starting RescueTime *********************
+20160506T101412:41:[qt_ui:create_system_tray] Current Thread ID: 140372488148864
+20160506T101412:1:QTDBG - Setting tray icon and menu after ...
+20160506T101425:5:
+
+********************* Starting RescueTime *********************
+20160506T101425:41:[qt_ui:create_system_tray] Current Thread ID: 140640610637696
+20160506T101425:1:QTDBG - Setting tray icon and menu after ...
+20160506T112347:1:[User Action] Toggle Start At Login...  Now: 0
+20160506T112358:1:[User Action] Checking for updates...
+20160506T112555:1:User Action] Open Preferences window.
+20160506T113433:5:
+
+********************* Starting RescueTime *********************
+20160506T113433:41:[qt_ui:create_system_tray] Current Thread ID: 140206269241216
+20160506T113433:1:QTDBG - Setting tray icon and menu after ...
+20160506T113459:5:
+
+********************* Starting RescueTime *********************
+20160506T113500:41:[qt_ui:create_system_tray] Current Thread ID: 139761298413440
+20160506T113500:1:QTDBG - Setting tray icon and menu after ...
+20160506T113559:1:[User Action] Quitting RescueTime from the menu.
+20160506T113559:5:^^^^^^^^^^^^^^^^^^^ Exiting RescueTime ^^^^^^^^^^^^^^^^^^^
+
+
+20160506T113600:1:[User Action] Quitting RescueTime from the menu.
+20160506T113600:5:^^^^^^^^^^^^^^^^^^^ Exiting RescueTime ^^^^^^^^^^^^^^^^^^^
+
+
+20160506T113603:1:[User Action] Quitting RescueTime from the menu.
+20160506T113603:5:^^^^^^^^^^^^^^^^^^^ Exiting RescueTime ^^^^^^^^^^^^^^^^^^^
+
+
+20160506T113611:5:
+
+********************* Starting RescueTime *********************
+20160506T113611:41:[qt_ui:create_system_tray] Current Thread ID: 140035604322176
+20160506T113611:1:QTDBG - Setting tray icon and menu after ...
+20160507T121200:5:
+
+********************* Starting RescueTime *********************
+20160507T121200:41:[qt_ui:create_system_tray] Current Thread ID: 140179746367360
+20160507T121200:1:QTDBG - Setting tray icon and menu after ...
+20160507T204844:5:
+
+********************* Starting RescueTime *********************
+20160507T204845:41:[qt_ui:create_system_tray] Current Thread ID: 140310192240512
+20160507T204845:1:QTDBG - Setting tray icon and menu after ...
+20160508T085742:5:
+
+********************* Starting RescueTime *********************
+20160508T085742:41:[qt_ui:create_system_tray] Current Thread ID: 139998972888960
+20160508T085742:1:QTDBG - Setting tray icon and menu after ...
+20160508T142238:5:
+
+********************* Starting RescueTime *********************
+20160508T142238:41:[qt_ui:create_system_tray] Current Thread ID: 140686562539392
+20160508T142238:1:QTDBG - Setting tray icon and menu after ...
+20160508T143108:5:
+
+********************* Starting RescueTime *********************
+20160508T143109:41:[qt_ui:create_system_tray] Current Thread ID: 140612059740032
+20160508T143109:1:QTDBG - Setting tray icon and menu after ...
+20160508T185250:5:
+
+********************* Starting RescueTime *********************
+20160508T185250:41:[qt_ui:create_system_tray] Current Thread ID: 140020053862272
+20160508T185250:1:QTDBG - Setting tray icon and menu after ...
+20160508T192711:1:[pusher:shove] Error Response: Unable to connect to the internet. No data will be lost, we'll try again in 3 to 30 min.
+20160508T211123:5:
+
+********************* Starting RescueTime *********************
+20160508T211123:41:[qt_ui:create_system_tray] Current Thread ID: 140356452194176
+20160508T211123:1:QTDBG - Setting tray icon and menu after ...
+20160509T070334:5:
+
+********************* Starting RescueTime *********************
+20160509T070335:41:[qt_ui:create_system_tray] Current Thread ID: 140110506588032
+20160509T070335:1:QTDBG - Setting tray icon and menu after ...
+20160509T164556:5:
+
+********************* Starting RescueTime *********************
+20160509T164556:41:[qt_ui:create_system_tray] Current Thread ID: 140229601281920
+20160509T164556:1:QTDBG - Setting tray icon and menu after ...
+20160509T164956:1:[pusher:shove] Error Response: Servers unavailable - we'll be back shortly. None of your data will be lost.
+20160510T154509:5:
+
+********************* Starting RescueTime *********************
+20160510T154509:41:[qt_ui:create_system_tray] Current Thread ID: 140153382635392
+20160510T154509:1:QTDBG - Setting tray icon and menu after ...
+20160511T170215:5:
+
+********************* Starting RescueTime *********************
+20160511T170215:41:[qt_ui:create_system_tray] Current Thread ID: 140006116222848
+20160511T170215:1:QTDBG - Setting tray icon and menu after ...
+20160511T180632:1:[pusher:shove] Error Response: Servers unavailable - we'll be back shortly. None of your data will be lost.
+20160512T171404:5:
+
+********************* Starting RescueTime *********************
+20160512T171405:41:[qt_ui:create_system_tray] Current Thread ID: 140049662871424
+20160512T171405:1:QTDBG - Setting tray icon and menu after ...
+20160513T082202:5:
+
+********************* Starting RescueTime *********************
+20160513T082202:41:[qt_ui:create_system_tray] Current Thread ID: 140636203030400
+20160513T082202:1:QTDBG - Setting tray icon and menu after ...
+20160513T161202:5:
+
+********************* Starting RescueTime *********************
+20160513T161202:41:[qt_ui:create_system_tray] Current Thread ID: 139716914714496
+20160513T161202:1:QTDBG - Setting tray icon and menu after ...
+20160514T000247:5:
+
+********************* Starting RescueTime *********************
+20160514T000247:41:[qt_ui:create_system_tray] Current Thread ID: 139852775257984
+20160514T000247:1:QTDBG - Setting tray icon and menu after ...
+20160514T102629:5:
+
+********************* Starting RescueTime *********************
+20160514T102629:41:[qt_ui:create_system_tray] Current Thread ID: 139701955094400
+20160514T102629:1:QTDBG - Setting tray icon and menu after ...
+20160515T110647:5:
+
+********************* Starting RescueTime *********************
+20160515T110647:41:[qt_ui:create_system_tray] Current Thread ID: 140629704537984
+20160515T110647:1:QTDBG - Setting tray icon and menu after ...
+20160515T132157:5:
+
+********************* Starting RescueTime *********************
+20160515T132157:41:[qt_ui:create_system_tray] Current Thread ID: 140507282335616
+20160515T132157:1:QTDBG - Setting tray icon and menu after ...
+20160516T091617:5:
+
+********************* Starting RescueTime *********************
+20160516T091617:41:[qt_ui:create_system_tray] Current Thread ID: 140627716564864
+20160516T091617:1:QTDBG - Setting tray icon and menu after ...
+20160516T091956:1:[User Action] Open FocusTime window.
+20160516T212950:5:
+
+********************* Starting RescueTime *********************
+20160516T212950:41:[qt_ui:create_system_tray] Current Thread ID: 140417560885120
+20160516T212950:1:QTDBG - Setting tray icon and menu after ...
+20160517T170114:5:
+
+********************* Starting RescueTime *********************
+20160517T170114:41:[qt_ui:create_system_tray] Current Thread ID: 140265329616768
+20160517T170114:1:QTDBG - Setting tray icon and menu after ...
+20160517T170514:1:[network::request]HTTP Response (!CURLE_OK): 28
+20160517T170514:1:[pusher:shove] Error Response: Connection timeout to the RescueTime servers. This could indicate a Proxy or Firewall configuration problem.
+20160517T180521:1:[pusher:shove] Error Response: 
+20160517T200547:1:[pusher:shove] Error Response: 
+20160518T165531:5:
+
+********************* Starting RescueTime *********************
+20160518T165531:41:[qt_ui:create_system_tray] Current Thread ID: 139965266569088
+20160518T165531:1:QTDBG - Setting tray icon and menu after ...
+20160519T174551:5:
+
+********************* Starting RescueTime *********************
+20160520T071254:5:
+
+********************* Starting RescueTime *********************
+20160520T071255:41:[qt_ui:create_system_tray] Current Thread ID: 139727069362048
+20160520T071255:1:QTDBG - Setting tray icon and menu after ...
+20160520T215734:5:
+
+********************* Starting RescueTime *********************
+20160520T215734:41:[qt_ui:create_system_tray] Current Thread ID: 140132362864512
+20160520T215734:1:QTDBG - Setting tray icon and menu after ...
+20160521T112123:5:
+
+********************* Starting RescueTime *********************
+20160521T112123:41:[qt_ui:create_system_tray] Current Thread ID: 139656669939584
+20160521T112123:1:QTDBG - Setting tray icon and menu after ...
+20160521T113355:5:
+
+********************* Starting RescueTime *********************
+20160521T113355:41:[qt_ui:create_system_tray] Current Thread ID: 140130559076224
+20160521T113355:1:QTDBG - Setting tray icon and menu after ...
+20160521T113710:5:
+
+********************* Starting RescueTime *********************
+20160521T113710:41:[qt_ui:create_system_tray] Current Thread ID: 140402188867456
+20160521T113710:1:QTDBG - Setting tray icon and menu after ...
+20160521T123032:5:
+
+********************* Starting RescueTime *********************
+20160521T123032:41:[qt_ui:create_system_tray] Current Thread ID: 140009532258176
+20160521T123032:1:QTDBG - Setting tray icon and menu after ...
+20160521T123719:5:
+
+********************* Starting RescueTime *********************
+20160521T123719:41:[qt_ui:create_system_tray] Current Thread ID: 140586493540224
+20160521T123719:1:QTDBG - Setting tray icon and menu after ...
+20160522T105645:5:
+
+********************* Starting RescueTime *********************
+20160522T105646:41:[qt_ui:create_system_tray] Current Thread ID: 140611659495296
+20160522T105646:1:QTDBG - Setting tray icon and menu after ...
+20160524T193034:5:
+
+********************* Starting RescueTime *********************
+20160524T193034:41:[qt_ui:create_system_tray] Current Thread ID: 139658431252352
+20160524T193034:1:QTDBG - Setting tray icon and menu after ...
+20160529T135508:5:
+
+********************* Starting RescueTime *********************
+20160529T135508:41:[qt_ui:create_system_tray] Current Thread ID: 139687212156800
+20160529T135508:1:QTDBG - Setting tray icon and menu after ...
+20160531T193324:5:
+
+********************* Starting RescueTime *********************
+20160531T193325:41:[qt_ui:create_system_tray] Current Thread ID: 140625816938368
+20160531T193325:1:QTDBG - Setting tray icon and menu after ...
+20160603T163517:5:
+
+********************* Starting RescueTime *********************
+20160603T163517:41:[qt_ui:create_system_tray] Current Thread ID: 139707320514432
+20160603T163517:1:QTDBG - Setting tray icon and menu after ...
+20160603T163730:5:
+
+********************* Starting RescueTime *********************
+20160603T163730:41:[qt_ui:create_system_tray] Current Thread ID: 140654269495168
+20160603T163730:1:QTDBG - Setting tray icon and menu after ...
+20160604T091426:5:
+
+********************* Starting RescueTime *********************
+20160604T091426:41:[qt_ui:create_system_tray] Current Thread ID: 140441502164864
+20160604T091426:1:QTDBG - Setting tray icon and menu after ...
+20160606T174543:5:
+
+********************* Starting RescueTime *********************
+20160606T174543:41:[qt_ui:create_system_tray] Current Thread ID: 139741545523072
+20160606T174543:1:QTDBG - Setting tray icon and menu after ...
+20160608T072144:5:
+
+********************* Starting RescueTime *********************
+20160608T072144:41:[qt_ui:create_system_tray] Current Thread ID: 139895168976768
+20160608T072144:1:QTDBG - Setting tray icon and menu after ...
+20160608T155113:5:
+
+********************* Starting RescueTime *********************
+20160608T155113:41:[qt_ui:create_system_tray] Current Thread ID: 140528024901504
+20160608T155113:1:QTDBG - Setting tray icon and menu after ...
+20160609T191815:5:
+
+********************* Starting RescueTime *********************
+20160609T191815:41:[qt_ui:create_system_tray] Current Thread ID: 140251920287616
+20160609T191815:1:QTDBG - Setting tray icon and menu after ...
+20160611T101215:5:
+
+********************* Starting RescueTime *********************
+20160611T101215:41:[qt_ui:create_system_tray] Current Thread ID: 140453499312000
+20160611T101215:1:QTDBG - Setting tray icon and menu after ...
+20160611T133338:5:
+
+********************* Starting RescueTime *********************
+20160611T133338:41:[qt_ui:create_system_tray] Current Thread ID: 139706919556992
+20160611T133338:1:QTDBG - Setting tray icon and menu after ...
+20160611T161146:5:
+
+********************* Starting RescueTime *********************
+20160611T161146:41:[qt_ui:create_system_tray] Current Thread ID: 139850829879168
+20160611T161146:1:QTDBG - Setting tray icon and menu after ...
+20160612T111542:5:
+
+********************* Starting RescueTime *********************
+20160612T111542:41:[qt_ui:create_system_tray] Current Thread ID: 139788199589760
+20160612T111542:1:QTDBG - Setting tray icon and menu after ...
+20160613T171947:5:
+
+********************* Starting RescueTime *********************
+20160613T171947:41:[qt_ui:create_system_tray] Current Thread ID: 139923402635136
+20160613T171947:1:QTDBG - Setting tray icon and menu after ...
+20160613T175417:5:
+
+********************* Starting RescueTime *********************
+20160613T175417:41:[qt_ui:create_system_tray] Current Thread ID: 139999323359104
+20160613T175417:1:QTDBG - Setting tray icon and menu after ...
+20160613T195619:5:
+
+********************* Starting RescueTime *********************
+20160613T195619:41:[qt_ui:create_system_tray] Current Thread ID: 140444673910656
+20160613T195619:1:QTDBG - Setting tray icon and menu after ...
+20160614T174351:5:
+
+********************* Starting RescueTime *********************
+20160614T174351:41:[qt_ui:create_system_tray] Current Thread ID: 139736858171264
+20160614T174351:1:QTDBG - Setting tray icon and menu after ...
+20160615T165054:5:
+
+********************* Starting RescueTime *********************
+20160615T165054:41:[qt_ui:create_system_tray] Current Thread ID: 140443946248064
+20160615T165054:1:QTDBG - Setting tray icon and menu after ...
+20160615T223828:1:User Action] Open Preferences window.
+20160617T171806:5:
+
+********************* Starting RescueTime *********************
+20160617T171806:41:[qt_ui:create_system_tray] Current Thread ID: 140059411502976
+20160617T171806:1:QTDBG - Setting tray icon and menu after ...
+20160618T104058:5:
+
+********************* Starting RescueTime *********************
+20160618T104059:41:[qt_ui:create_system_tray] Current Thread ID: 140265600726912
+20160618T104059:1:QTDBG - Setting tray icon and menu after ...
+20160618T140644:5:
+
+********************* Starting RescueTime *********************
+20160618T140644:41:[qt_ui:create_system_tray] Current Thread ID: 140389741672320
+20160618T140644:1:QTDBG - Setting tray icon and menu after ...
+20160620T171106:5:
+
+********************* Starting RescueTime *********************
+20160620T171106:41:[qt_ui:create_system_tray] Current Thread ID: 139855938795392
+20160620T171106:1:QTDBG - Setting tray icon and menu after ...
+20160622T143248:5:
+
+********************* Starting RescueTime *********************
+20160624T075049:5:
+
+********************* Starting RescueTime *********************
+20160624T075049:41:[qt_ui:create_system_tray] Current Thread ID: 139709786081152
+20160624T075049:1:QTDBG - Setting tray icon and menu after ...
+20160625T080148:5:
+
+********************* Starting RescueTime *********************
+20160625T080148:41:[qt_ui:create_system_tray] Current Thread ID: 140632643835776
+20160625T080148:1:QTDBG - Setting tray icon and menu after ...
+20160626T103413:5:
+
+********************* Starting RescueTime *********************
+20160626T103414:41:[qt_ui:create_system_tray] Current Thread ID: 140192448731008
+20160626T103414:1:QTDBG - Setting tray icon and menu after ...
+20160627T130603:5:
+
+********************* Starting RescueTime *********************
+20160627T130603:41:[qt_ui:create_system_tray] Current Thread ID: 140307374966656
+20160627T130603:1:QTDBG - Setting tray icon and menu after ...
+20160628T073810:5:
+
+********************* Starting RescueTime *********************
+20160628T073810:41:[qt_ui:create_system_tray] Current Thread ID: 140276443998080
+20160628T073810:1:QTDBG - Setting tray icon and menu after ...
+20160628T153544:5:
+
+********************* Starting RescueTime *********************
+20160628T153544:41:[qt_ui:create_system_tray] Current Thread ID: 139897152620416
+20160628T153544:1:QTDBG - Setting tray icon and menu after ...
+20160702T104155:5:
+
+********************* Starting RescueTime *********************
+20160702T104155:41:[qt_ui:create_system_tray] Current Thread ID: 139857276954496
+20160702T104155:1:QTDBG - Setting tray icon and menu after ...
+20160706T132054:5:
+
+********************* Starting RescueTime *********************
+20160706T132054:41:[qt_ui:create_system_tray] Current Thread ID: 140294271371136
+20160706T132054:1:QTDBG - Setting tray icon and menu after ...
+20160707T142738:5:
+
+********************* Starting RescueTime *********************
+20160707T142738:41:[qt_ui:create_system_tray] Current Thread ID: 140557513410432
+20160707T142738:1:QTDBG - Setting tray icon and menu after ...
+20160708T100824:5:
+
+********************* Starting RescueTime *********************
+20160708T100824:41:[qt_ui:create_system_tray] Current Thread ID: 140717350676352
+20160708T100824:1:QTDBG - Setting tray icon and menu after ...
+20160708T133629:5:
+
+********************* Starting RescueTime *********************
+20160708T133630:41:[qt_ui:create_system_tray] Current Thread ID: 139867677976448
+20160708T133630:1:QTDBG - Setting tray icon and menu after ...
+20160708T135456:5:
+
+********************* Starting RescueTime *********************
+20160708T135456:41:[qt_ui:create_system_tray] Current Thread ID: 140417590667136
+20160708T135456:1:QTDBG - Setting tray icon and menu after ...
+20160709T103422:5:
+
+********************* Starting RescueTime *********************
+20160709T103422:41:[qt_ui:create_system_tray] Current Thread ID: 140013839054720
+20160709T103422:1:QTDBG - Setting tray icon and menu after ...
+20160709T103758:5:
+
+********************* Starting RescueTime *********************
+20160709T103758:41:[qt_ui:create_system_tray] Current Thread ID: 140111607072640
+20160709T103758:1:QTDBG - Setting tray icon and menu after ...
+20160709T161613:5:
+
+********************* Starting RescueTime *********************
+20160709T161613:41:[qt_ui:create_system_tray] Current Thread ID: 139913210054528
+20160709T161613:1:QTDBG - Setting tray icon and menu after ...
+20160710T130925:5:
+
+********************* Starting RescueTime *********************
+20160710T130925:41:[qt_ui:create_system_tray] Current Thread ID: 139683801806720
+20160710T130925:1:QTDBG - Setting tray icon and menu after ...
+20160710T191845:5:
+
+********************* Starting RescueTime *********************
+20160710T191845:41:[qt_ui:create_system_tray] Current Thread ID: 140439794628480
+20160710T191845:1:QTDBG - Setting tray icon and menu after ...
+20160711T102028:5:
+
+********************* Starting RescueTime *********************
+20160711T102028:41:[qt_ui:create_system_tray] Current Thread ID: 140293910833024
+20160711T102028:1:QTDBG - Setting tray icon and menu after ...
+20160711T120613:5:
+
+********************* Starting RescueTime *********************
+20160711T120613:41:[qt_ui:create_system_tray] Current Thread ID: 139831842727808
+20160711T120613:1:QTDBG - Setting tray icon and menu after ...
+20160712T120159:5:
+
+********************* Starting RescueTime *********************
+20160712T120159:41:[qt_ui:create_system_tray] Current Thread ID: 140204400809856
+20160712T120159:1:QTDBG - Setting tray icon and menu after ...
+20160712T143407:5:
+
+********************* Starting RescueTime *********************
+20160712T143407:41:[qt_ui:create_system_tray] Current Thread ID: 140235015673728
+20160712T143407:1:QTDBG - Setting tray icon and menu after ...
+20160712T151957:5:
+
+********************* Starting RescueTime *********************
+20160712T151957:41:[qt_ui:create_system_tray] Current Thread ID: 140697458866048
+20160712T151957:1:QTDBG - Setting tray icon and menu after ...
+20160713T085552:5:
+
+********************* Starting RescueTime *********************
+20160713T085552:41:[qt_ui:create_system_tray] Current Thread ID: 140194100123520
+20160713T085552:1:QTDBG - Setting tray icon and menu after ...
+20160713T102051:5:
+
+********************* Starting RescueTime *********************
+20160713T102051:41:[qt_ui:create_system_tray] Current Thread ID: 140627614865280
+20160713T102051:1:QTDBG - Setting tray icon and menu after ...
+20160713T123547:5:
+
+********************* Starting RescueTime *********************
+20160713T123547:41:[qt_ui:create_system_tray] Current Thread ID: 140605447980928
+20160713T123547:1:QTDBG - Setting tray icon and menu after ...
+20160714T212623:5:
+
+********************* Starting RescueTime *********************
+20160714T212623:41:[qt_ui:create_system_tray] Current Thread ID: 140258063370112
+20160714T212623:1:QTDBG - Setting tray icon and menu after ...
+20160715T142730:5:
+
+********************* Starting RescueTime *********************
+20160715T142730:41:[qt_ui:create_system_tray] Current Thread ID: 140610515060608
+20160715T142730:1:QTDBG - Setting tray icon and menu after ...
+20160719T221610:5:
+
+********************* Starting RescueTime *********************
+20160719T221610:41:[qt_ui:create_system_tray] Current Thread ID: 139672705128320
+20160719T221610:1:QTDBG - Setting tray icon and menu after ...
+20160720T090253:5:
+
+********************* Starting RescueTime *********************
+20160720T090253:41:[qt_ui:create_system_tray] Current Thread ID: 139888495318912
+20160720T090253:1:QTDBG - Setting tray icon and menu after ...
+20160720T091952:5:
+
+********************* Starting RescueTime *********************
+20160720T091952:41:[qt_ui:create_system_tray] Current Thread ID: 140147742545792
+20160720T091952:1:QTDBG - Setting tray icon and menu after ...
+20160720T190635:5:
+
+********************* Starting RescueTime *********************
+20160720T190635:41:[qt_ui:create_system_tray] Current Thread ID: 140265282914176
+20160720T190635:1:QTDBG - Setting tray icon and menu after ...
+20160721T094247:5:
+
+********************* Starting RescueTime *********************
+20160721T094247:41:[qt_ui:create_system_tray] Current Thread ID: 140648160479104
+20160721T094247:1:QTDBG - Setting tray icon and menu after ...
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215153:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215154:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215155:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215156:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215351:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Not enough space while running utf8to32
+20160721T215352:1:[utf8:to_wstring] Caught std::exception Invalid UTF-8 while running utf8to32
+20160722T102311:5:
+
+********************* Starting RescueTime *********************
+20160722T102311:41:[qt_ui:create_system_tray] Current Thread ID: 139876993423232
+20160722T102311:1:QTDBG - Setting tray icon and menu after ...
+20160724T153407:5:
+
+********************* Starting RescueTime *********************
+20160724T153407:41:[qt_ui:create_system_tray] Current Thread ID: 140493122037632
+20160724T153407:1:QTDBG - Setting tray icon and menu after ...
+20160724T205819:5:
+
+********************* Starting RescueTime *********************
+20160724T205819:41:[qt_ui:create_system_tray] Current Thread ID: 140109716268928
+20160724T205819:1:QTDBG - Setting tray icon and menu after ...
+20160725T094052:5:
+
+********************* Starting RescueTime *********************
+20160725T094052:41:[qt_ui:create_system_tray] Current Thread ID: 140552266016640
+20160725T094052:1:QTDBG - Setting tray icon and menu after ...
+20160725T120143:5:
+
+********************* Starting RescueTime *********************
+20160725T120143:41:[qt_ui:create_system_tray] Current Thread ID: 139704800692096
+20160725T120143:1:QTDBG - Setting tray icon and menu after ...
+20160725T192356:5:
+
+********************* Starting RescueTime *********************
+20160725T192356:41:[qt_ui:create_system_tray] Current Thread ID: 139877413717888
+20160725T192356:1:QTDBG - Setting tray icon and menu after ...
+20160725T192620:5:
+
+********************* Starting RescueTime *********************
+20160725T192621:41:[qt_ui:create_system_tray] Current Thread ID: 140300212864896
+20160725T192621:1:QTDBG - Setting tray icon and menu after ...
+20160726T095531:5:
+
+********************* Starting RescueTime *********************
+20160726T095531:41:[qt_ui:create_system_tray] Current Thread ID: 140186002278272
+20160726T095531:1:QTDBG - Setting tray icon and menu after ...
+20160726T095608:5:
+
+********************* Starting RescueTime *********************
+20160726T095608:41:[qt_ui:create_system_tray] Current Thread ID: 140251858425728
+20160726T095608:1:QTDBG - Setting tray icon and menu after ...
+20160726T121924:5:
+
+********************* Starting RescueTime *********************
+20160726T121925:41:[qt_ui:create_system_tray] Current Thread ID: 140437598324608
+20160726T121925:1:QTDBG - Setting tray icon and menu after ...
+20160726T124022:5:
+
+********************* Starting RescueTime *********************
+20160726T124023:41:[qt_ui:create_system_tray] Current Thread ID: 140246985766784
+20160726T124023:1:QTDBG - Setting tray icon and menu after ...
+20160727T084220:5:
+
+********************* Starting RescueTime *********************
+20160727T084220:41:[qt_ui:create_system_tray] Current Thread ID: 139804081792896
+20160727T084220:1:QTDBG - Setting tray icon and menu after ...
+20160729T084846:5:
+
+********************* Starting RescueTime *********************
+20160729T084846:41:[qt_ui:create_system_tray] Current Thread ID: 139899499706240
+20160729T084846:1:QTDBG - Setting tray icon and menu after ...
+20160729T131652:5:
+
+********************* Starting RescueTime *********************
+20160729T131652:41:[qt_ui:create_system_tray] Current Thread ID: 140207521081216
+20160729T131652:1:QTDBG - Setting tray icon and menu after ...
+20160729T131955:5:
+
+********************* Starting RescueTime *********************
+20160803T105128:5:
+
+********************* Starting RescueTime *********************
+20160803T105128:41:[qt_ui:create_system_tray] Current Thread ID: 140414692403072
+20160803T105128:1:QTDBG - Setting tray icon and menu after ...
+20160804T131848:5:
+
+********************* Starting RescueTime *********************
+20160804T131848:41:[qt_ui:create_system_tray] Current Thread ID: 140061305542528
+20160804T131848:1:QTDBG - Setting tray icon and menu after ...
+20160804T204607:5:
+
+********************* Starting RescueTime *********************
+20160804T204607:41:[qt_ui:create_system_tray] Current Thread ID: 140228297353088
+20160804T204607:1:QTDBG - Setting tray icon and menu after ...
+20160805T132742:5:
+
+********************* Starting RescueTime *********************
+20160805T132742:41:[qt_ui:create_system_tray] Current Thread ID: 139768659306368
+20160805T132742:1:QTDBG - Setting tray icon and menu after ...
+20160806T150226:5:
+
+********************* Starting RescueTime *********************
+20160806T150227:41:[qt_ui:create_system_tray] Current Thread ID: 140361430820736
+20160806T150227:1:QTDBG - Setting tray icon and menu after ...

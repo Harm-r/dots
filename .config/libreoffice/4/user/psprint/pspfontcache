@@ -1,0 +1,1785 @@
+LibreOffice PspFontCacheFile format 6
+FontCacheDirectory:1463825707:/usr/share/fonts/TTF
+File:InputSansCompressed-Black.ttf
+2;1
+InputSansCompressed Black;Input Sans Compressed
+0;InputSansCompressed-Black;0;9;2;2;65535;927;272;199;0;1525;1199;1525;1199;0;0;0;4;Black
+
+File:InputSansCompressed-ThinItalic.ttf
+2;1
+InputSansCompressed Thin;Input Sans Compressed
+0;InputSansCompressed-ThinItalic;2;3;2;2;65535;927;272;199;0;1174;1199;1174;1199;0;0;0;4;Thin Italic
+
+File:InputSansCompressed-LightItalic.ttf
+2;1
+InputSansCompressed Light;Input Sans Compressed
+0;InputSansCompressed-LightItalic;2;3;2;2;65535;927;272;199;0;1188;1199;1188;1199;0;0;0;4;Light Italic
+
+File:InputSansCompressed-MediumItalic.ttf
+2;1
+InputSansCompressed Medium;Input Sans Compressed
+0;InputSansCompressed-MediumItalic;2;6;2;2;65535;927;272;199;0;1314;1199;1314;1199;0;0;0;4;Medium Italic
+
+File:InputSansCompressed-Regular.ttf
+2;1
+InputSansCompressed;Input Sans Compressed
+0;InputSansCompressed-Regular;0;5;2;2;65535;927;272;199;0;1187;1199;1187;1199;0;0;0;4;Regular
+
+File:InputMono-Medium.ttf
+2;1
+InputMono Medium;Input Mono
+0;InputMono-Medium;0;6;5;1;65535;927;272;199;0;1118;1199;1118;1199;0;0;0;4;Medium
+
+File:InputSansNarrow-Italic.ttf
+2;1
+InputSansNarrow;Input Sans Narrow
+0;InputSansNarrow-Italic;2;5;4;2;65535;927;272;199;0;1431;1199;1431;1199;0;0;0;4;Italic
+
+File:InputSans-Regular.ttf
+2;1
+InputSans;Input Sans
+0;InputSans-Regular;0;5;5;2;65535;927;272;199;0;1511;1199;1511;1199;0;0;0;4;Regular
+
+File:InputSans-Medium.ttf
+2;1
+InputSans Medium;Input Sans
+0;InputSans-Medium;0;6;5;2;65535;927;272;199;0;1601;1199;1601;1199;0;0;0;4;Medium
+
+File:InputSans-Thin.ttf
+2;1
+InputSans Thin;Input Sans
+0;InputSans-Thin;0;3;5;2;65535;927;272;199;0;1491;1199;1491;1199;0;0;0;4;Thin
+
+File:InputSans-LightItalic.ttf
+2;1
+InputSans Light;Input Sans
+0;InputSans-LightItalic;2;3;5;2;65535;927;272;199;0;1534;1199;1534;1199;0;0;0;4;Light Italic
+
+File:InputSans-Light.ttf
+2;1
+InputSans Light;Input Sans
+0;InputSans-Light;0;3;5;2;65535;927;272;199;0;1499;1199;1499;1199;0;0;0;4;Light
+
+File:InputSerifCondensed-BlackItalic.ttf
+2;1
+InputSerifCondensed Black;Input Serif Condensed
+0;InputSerifCondensed-BlackItalic;2;9;3;2;65535;927;272;199;0;1602;1199;1602;1199;0;0;0;4;Black Italic
+
+File:InputSans-ExtraLight.ttf
+2;1
+InputSans ExLight;Input Sans
+0;InputSans-ExtraLight;0;3;5;2;65535;927;272;199;0;1499;1199;1499;1199;0;0;0;4;Extra Light
+
+File:InputSans-BoldItalic.ttf
+2;1
+InputSans;Input Sans
+0;InputSans-BoldItalic;2;8;5;2;65535;927;272;199;0;1659;1199;1659;1199;0;0;0;4;Bold Italic
+
+File:InputSans-MediumItalic.ttf
+2;1
+InputSans Medium;Input Sans
+0;InputSans-MediumItalic;2;6;5;2;65535;927;272;199;0;1630;1199;1630;1199;0;0;0;4;Medium Italic
+
+File:InputSansCondensed-Medium.ttf
+2;1
+InputSansCondensed Medium;Input Sans Condensed
+0;InputSansCondensed-Medium;0;6;3;2;65535;927;272;199;0;1408;1199;1408;1199;0;0;0;4;Medium
+
+File:InputSansCondensed-ThinItalic.ttf
+2;1
+InputSansCondensed Thin;Input Sans Condensed
+0;InputSansCondensed-ThinItalic;2;3;3;2;65535;927;272;199;0;1285;1199;1285;1199;0;0;0;4;Thin Italic
+
+File:InputSans-Bold.ttf
+2;1
+InputSans;Input Sans
+0;InputSans-Bold;0;8;5;2;65535;927;272;199;0;1645;1199;1645;1199;0;0;0;4;Bold
+
+File:InputMonoNarrow-ThinItalic.ttf
+2;1
+InputMonoNarrow Thin;Input Mono Narrow
+0;InputMonoNarrow-ThinItalic;2;3;4;1;65535;927;272;199;0;982;1199;982;1199;0;0;0;4;Thin Italic
+
+File:InputSansNarrow-ExtraLight.ttf
+2;1
+InputSansNarrow ExLight;Input Sans Narrow
+0;InputSansNarrow-ExtraLight;0;3;4;2;65535;927;272;199;0;1385;1199;1385;1199;0;0;0;4;Extra Light
+
+File:InputMonoNarrow-MediumItalic.ttf
+2;1
+InputMonoNarrow Medium;Input Mono Narrow
+0;InputMonoNarrow-MediumItalic;2;6;4;1;65535;927;272;199;0;1105;1199;1105;1199;0;0;0;4;Medium Italic
+
+File:InputMonoNarrow-Bold.ttf
+2;1
+InputMonoNarrow;Input Mono Narrow
+0;InputMonoNarrow-Bold;0;8;4;1;65535;927;272;199;0;1073;1199;1073;1199;0;0;0;4;Bold
+
+File:InputMonoNarrow-Medium.ttf
+2;1
+InputMonoNarrow Medium;Input Mono Narrow
+0;InputMonoNarrow-Medium;0;6;4;1;65535;927;272;199;0;1044;1199;1044;1199;0;0;0;4;Medium
+
+File:InputMonoNarrow-Light.ttf
+2;1
+InputMonoNarrow Light;Input Mono Narrow
+0;InputMonoNarrow-Light;0;3;4;1;65535;927;272;199;0;963;1199;963;1199;0;0;0;4;Light
+
+File:InputSerifCompressed-Medium.ttf
+2;1
+InputSerifCompressed Medium;Input Serif Compressed
+0;InputSerifCompressed-Medium;0;6;2;2;65535;927;272;199;0;1327;1199;1327;1199;0;0;0;4;Medium
+
+File:InputMonoNarrow-Italic.ttf
+2;1
+InputMonoNarrow;Input Mono Narrow
+0;InputMonoNarrow-Italic;2;5;4;1;65535;927;272;199;0;1044;1199;1044;1199;0;0;0;4;Italic
+
+File:InputMonoNarrow-Thin.ttf
+2;1
+InputMonoNarrow Thin;Input Mono Narrow
+0;InputMonoNarrow-Thin;0;3;4;1;65535;927;272;199;0;916;1199;916;1199;0;0;0;4;Thin
+
+File:InputMono-Italic.ttf
+2;1
+InputMono;Input Mono
+0;InputMono-Italic;2;5;5;1;65535;927;272;199;0;1126;1199;1126;1199;0;0;0;4;Italic
+
+File:InputMonoNarrow-ExtraLight.ttf
+2;1
+InputMonoNarrow ExLight;Input Mono Narrow
+0;InputMonoNarrow-ExtraLight;0;3;4;1;65535;927;272;199;0;941;1199;941;1199;0;0;0;4;Extra Light
+
+File:InputMonoNarrow-BlackItalic.ttf
+2;1
+InputMonoNarrow Black;Input Mono Narrow
+0;InputMonoNarrow-BlackItalic;2;9;4;1;65535;927;272;199;0;1167;1199;1167;1199;0;0;0;4;Black Italic
+
+File:InputSans-BlackItalic.ttf
+2;1
+InputSans Black;Input Sans
+0;InputSans-BlackItalic;2;9;5;2;65535;927;272;199;0;1782;1199;1782;1199;0;0;0;4;Black Italic
+
+File:InputMonoNarrow-Black.ttf
+2;1
+InputMonoNarrow Black;Input Mono Narrow
+0;InputMonoNarrow-Black;0;9;4;1;65535;927;272;199;0;1113;1199;1113;1199;0;0;0;4;Black
+
+File:InputSansCompressed-Italic.ttf
+2;1
+InputSansCompressed;Input Sans Compressed
+0;InputSansCompressed-Italic;2;5;2;2;65535;927;272;199;0;1196;1199;1196;1199;0;0;0;4;Italic
+
+File:InputMonoCondensed-Black.ttf
+2;1
+InputMonoCondensed Black;Input Mono Condensed
+0;InputMonoCondensed-Black;0;9;3;1;65535;927;272;199;0;1037;1199;1037;1199;0;0;0;4;Black
+
+File:InputSansCondensed-Regular.ttf
+2;1
+InputSansCondensed;Input Sans Condensed
+0;InputSansCondensed-Regular;0;5;3;2;65535;927;272;199;0;1285;1199;1285;1199;0;0;0;4;Regular
+
+File:InputSerifNarrow-Light.ttf
+2;1
+InputSerifNarrow Light;Input Serif Narrow
+0;InputSerifNarrow-Light;0;3;4;2;65535;927;272;199;0;1385;1199;1385;1199;0;0;0;4;Light
+
+File:InputMonoCondensed-BlackItalic.ttf
+2;1
+InputMonoCondensed Black;Input Mono Condensed
+0;InputMonoCondensed-BlackItalic;2;9;3;1;65535;927;272;199;0;1079;1199;1079;1199;0;0;0;4;Black Italic
+
+File:InputMonoCondensed-BoldItalic.ttf
+2;1
+InputMonoCondensed;Input Mono Condensed
+0;InputMonoCondensed-BoldItalic;2;8;3;1;65535;927;272;199;0;1256;1199;1256;1199;0;0;0;4;Bold Italic
+
+File:InputSerifNarrow-ThinItalic.ttf
+2;1
+InputSerifNarrow Thin;Input Serif Narrow
+0;InputSerifNarrow-ThinItalic;2;3;4;2;65535;927;272;199;0;1417;1199;1417;1199;0;0;0;4;Thin Italic
+
+File:InputMonoCondensed-Regular.ttf
+2;1
+InputMonoCondensed;Input Mono Condensed
+0;InputMonoCondensed-Regular;0;5;3;1;65535;927;272;199;0;907;1199;907;1199;0;0;0;4;Regular
+
+File:InputSansCompressed-Medium.ttf
+2;1
+InputSansCompressed Medium;Input Sans Compressed
+0;InputSansCompressed-Medium;0;6;2;2;65535;927;272;199;0;1327;1199;1327;1199;0;0;0;4;Medium
+
+File:InputMonoCondensed-ExtraLight.ttf
+2;1
+InputMonoCondensed ExLight;Input Mono Condensed
+0;InputMonoCondensed-ExtraLight;0;3;3;1;65535;927;272;199;0;872;1199;872;1199;0;0;0;4;Extra Light
+
+File:InputSans-Black.ttf
+2;1
+InputSans Black;Input Sans
+0;InputSans-Black;0;9;5;2;65535;927;272;199;0;1787;1199;1787;1199;0;0;0;4;Black
+
+File:VeraBd.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Bold;0;8;5;2;65535;928;235;163;0;1615;1163;1615;1163;0;0;0;4;Bold
+
+File:InputMono-Black.ttf
+2;1
+InputMono Black;Input Mono
+0;InputMono-Black;0;9;5;1;65535;927;272;199;0;1187;1199;1187;1199;0;0;0;4;Black
+
+File:InputMonoCondensed-Italic.ttf
+2;1
+InputMonoCondensed;Input Mono Condensed
+0;InputMonoCondensed-Italic;2;5;3;1;65535;927;272;199;0;961;1199;961;1199;0;0;0;4;Italic
+
+File:VeraMoIt.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Oblique;1;5;5;1;65535;928;235;163;0;760;1163;760;1163;0;0;0;4;Oblique
+
+File:InputSerifCondensed-Italic.ttf
+2;1
+InputSerifCondensed;Input Serif Condensed
+0;InputSerifCondensed-Italic;2;5;3;2;65535;927;272;199;0;1340;1199;1340;1199;0;0;0;4;Italic
+
+File:InputSansCompressed-Light.ttf
+2;1
+InputSansCompressed Light;Input Sans Compressed
+0;InputSansCompressed-Light;0;3;2;2;65535;927;272;199;0;1177;1199;1177;1199;0;0;0;4;Light
+
+File:InputSerifCompressed-ExtraLightItalic.ttf
+2;1
+InputSerifCompressed ExLight;Input Serif Compressed
+0;InputSerifCompressed-ExtraLightItalic;2;3;2;2;65535;927;272;199;0;1193;1199;1193;1199;0;0;0;4;Extra Light Italic
+
+File:InputMono-BlackItalic.ttf
+2;1
+InputMono Black;Input Mono
+0;InputMono-BlackItalic;2;9;5;1;65535;927;272;199;0;1253;1199;1253;1199;0;0;0;4;Black Italic
+
+File:InputMonoCompressed-MediumItalic.ttf
+2;1
+InputMonoCompressed Medium;Input Mono Compressed
+0;InputMonoCompressed-MediumItalic;2;6;2;1;65535;927;272;199;0;934;1199;934;1199;0;0;0;4;Medium Italic
+
+File:InputSansCondensed-BoldItalic.ttf
+2;1
+InputSansCondensed;Input Sans Condensed
+0;InputSansCondensed-BoldItalic;2;8;3;2;65535;927;272;199;0;1448;1199;1448;1199;0;0;0;4;Bold Italic
+
+File:GohaTibebZemen.ttf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1223;991;1223;991;0;0;0;0;Regular
+
+File:InputMonoCompressed-Medium.ttf
+2;1
+InputMonoCompressed Medium;Input Mono Compressed
+0;InputMonoCompressed-Medium;0;6;2;1;65535;927;272;199;0;898;1199;898;1199;0;0;0;4;Medium
+
+File:InputMonoCompressed-ExtraLight.ttf
+2;1
+InputMonoCompressed ExLight;Input Mono Compressed
+0;InputMonoCompressed-ExtraLight;0;3;2;1;65535;927;272;199;0;802;1199;802;1199;0;0;0;4;Extra Light
+
+File:VeraMono.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Roman;0;5;5;1;65535;928;235;163;0;609;1163;609;1163;0;0;0;4;Roman
+
+File:InputSerifCondensed-ExtraLight.ttf
+2;1
+InputSerifCondensed ExLight;Input Serif Condensed
+0;InputSerifCondensed-ExtraLight;0;3;3;2;65535;927;272;199;0;1271;1199;1271;1199;0;0;0;4;Extra Light
+
+File:InputMonoCompressed-Light.ttf
+2;1
+InputMonoCompressed Light;Input Mono Compressed
+0;InputMonoCompressed-Light;0;3;2;1;65535;927;272;199;0;818;1199;818;1199;0;0;0;4;Light
+
+File:InputSerifCompressed-Light.ttf
+2;1
+InputSerifCompressed Light;Input Serif Compressed
+0;InputSerifCompressed-Light;0;3;2;2;65535;927;272;199;0;1177;1199;1177;1199;0;0;0;4;Light
+
+File:VeraSeBd.ttf
+2;1
+Bitstream Vera Serif
+0;BitstreamVeraSerif-Bold;0;8;5;2;65535;938;235;173;0;1546;1173;1546;1173;0;0;0;4;Bold
+
+File:InputSerifCompressed-Thin.ttf
+2;1
+InputSerifCompressed Thin;Input Serif Compressed
+0;InputSerifCompressed-Thin;0;3;2;2;65535;927;272;199;0;1164;1199;1164;1199;0;0;0;4;Thin
+
+File:InputSans-Italic.ttf
+2;1
+InputSans;Input Sans
+0;InputSans-Italic;2;5;5;2;65535;927;272;199;0;1550;1199;1550;1199;0;0;0;4;Italic
+
+File:InputMonoCompressed-BlackItalic.ttf
+2;1
+InputMonoCompressed Black;Input Mono Compressed
+0;InputMonoCompressed-BlackItalic;2;9;2;1;65535;927;272;199;0;990;1199;990;1199;0;0;0;4;Black Italic
+
+File:InputMonoCompressed-LightItalic.ttf
+2;1
+InputMonoCompressed Light;Input Mono Compressed
+0;InputMonoCompressed-LightItalic;2;3;2;1;65535;927;272;199;0;860;1199;860;1199;0;0;0;4;Light Italic
+
+File:InputSansCondensed-Light.ttf
+2;1
+InputSansCondensed Light;Input Sans Condensed
+0;InputSansCondensed-Light;0;3;3;2;65535;927;272;199;0;1271;1199;1271;1199;0;0;0;4;Light
+
+File:InputSerif-ExtraLight.ttf
+2;1
+InputSerif ExLight;Input Serif
+0;InputSerif-ExtraLight;0;3;5;2;65535;927;272;199;0;1499;1199;1499;1199;0;0;0;4;Extra Light
+
+File:InputSerif-Regular.ttf
+2;1
+InputSerif;Input Serif
+0;InputSerif-Regular;0;5;5;2;65535;927;272;199;0;1511;1199;1511;1199;0;0;0;4;Regular
+
+File:InputMono-ExtraLightItalic.ttf
+2;1
+InputMono ExLight;Input Mono
+0;InputMono-ExtraLightItalic;2;3;5;1;65535;927;272;199;0;1088;1199;1088;1199;0;0;0;4;Extra Light Italic
+
+File:InputMono-ExtraLight.ttf
+2;1
+InputMono ExLight;Input Mono
+0;InputMono-ExtraLight;0;3;5;1;65535;927;272;199;0;1010;1199;1010;1199;0;0;0;4;Extra Light
+
+File:VeraIt.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Oblique;1;5;5;2;65535;928;235;163;0;1520;1163;1520;1163;0;0;0;4;Oblique
+
+File:InputMonoNarrow-LightItalic.ttf
+2;1
+InputMonoNarrow Light;Input Mono Narrow
+0;InputMonoNarrow-LightItalic;2;3;4;1;65535;927;272;199;0;1026;1199;1026;1199;0;0;0;4;Light Italic
+
+File:Vera.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Roman;0;5;5;2;65535;928;235;163;0;1470;1163;1470;1163;0;0;0;4;Roman
+
+File:InputSans-ExtraLightItalic.ttf
+2;1
+InputSans ExLight;Input Sans
+0;InputSans-ExtraLightItalic;2;3;5;2;65535;927;272;199;0;1538;1199;1538;1199;0;0;0;4;Extra Light Italic
+
+File:InputMono-Bold.ttf
+2;1
+InputMono;Input Mono
+0;InputMono-Bold;0;8;5;1;65535;927;272;199;0;1145;1199;1145;1199;0;0;0;4;Bold
+
+File:InputSansCompressed-Bold.ttf
+2;1
+InputSansCompressed;Input Sans Compressed
+0;InputSansCompressed-Bold;0;8;2;2;65535;927;272;199;0;1373;1199;1373;1199;0;0;0;4;Bold
+
+File:InputSerifCondensed-Regular.ttf
+2;1
+InputSerifCondensed;Input Serif Condensed
+0;InputSerifCondensed-Regular;0;5;3;2;65535;927;272;199;0;1286;1199;1286;1199;0;0;0;4;Regular
+
+File:InputMonoNarrow-Regular.ttf
+2;1
+InputMonoNarrow;Input Mono Narrow
+0;InputMonoNarrow-Regular;0;5;4;1;65535;927;272;199;0;977;1199;977;1199;0;0;0;4;Regular
+
+File:InputSerifCompressed-Regular.ttf
+2;1
+InputSerifCompressed;Input Serif Compressed
+0;InputSerifCompressed-Regular;0;5;2;2;65535;927;272;199;0;1187;1199;1187;1199;0;0;0;4;Regular
+
+File:InputMonoCondensed-Bold.ttf
+2;1
+InputMonoCondensed;Input Mono Condensed
+0;InputMonoCondensed-Bold;0;8;3;1;65535;927;272;199;0;999;1199;999;1199;0;0;0;4;Bold
+
+File:VeraMoBd.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Bold;0;8;5;1;65535;928;235;163;0;624;1163;624;1163;0;0;0;4;Bold
+
+File:InputMonoCompressed-Regular.ttf
+2;1
+InputMonoCompressed;Input Mono Compressed
+0;InputMonoCompressed-Regular;0;5;2;1;65535;927;272;199;0;836;1199;836;1199;0;0;0;4;Regular
+
+File:InputSansCondensed-ExtraLight.ttf
+2;1
+InputSansCondensed ExLight;Input Sans Condensed
+0;InputSansCondensed-ExtraLight;0;3;3;2;65535;927;272;199;0;1271;1199;1271;1199;0;0;0;4;Extra Light
+
+File:InputSansNarrow-MediumItalic.ttf
+2;1
+InputSansNarrow Medium;Input Sans Narrow
+0;InputSansNarrow-MediumItalic;2;6;4;2;65535;927;272;199;0;1511;1199;1511;1199;0;0;0;4;Medium Italic
+
+File:InputSansNarrow-Medium.ttf
+2;1
+InputSansNarrow Medium;Input Sans Narrow
+0;InputSansNarrow-Medium;0;6;4;2;65535;927;272;199;0;1501;1199;1501;1199;0;0;0;4;Medium
+
+File:InputSansCondensed-Italic.ttf
+2;1
+InputSansCondensed;Input Sans Condensed
+0;InputSansCondensed-Italic;2;5;3;2;65535;927;272;199;0;1310;1199;1310;1199;0;0;0;4;Italic
+
+File:InputMonoCompressed-Bold.ttf
+2;1
+InputMonoCompressed;Input Mono Compressed
+0;InputMonoCompressed-Bold;0;8;2;1;65535;927;272;199;0;924;1199;924;1199;0;0;0;4;Bold
+
+File:InputMono-MediumItalic.ttf
+2;1
+InputMono Medium;Input Mono
+0;InputMono-MediumItalic;2;6;5;1;65535;927;272;199;0;1190;1199;1190;1199;0;0;0;4;Medium Italic
+
+File:InputSansCompressed-Thin.ttf
+2;1
+InputSansCompressed Thin;Input Sans Compressed
+0;InputSansCompressed-Thin;0;3;2;2;65535;927;272;199;0;1164;1199;1164;1199;0;0;0;4;Thin
+
+File:InputSansNarrow-BoldItalic.ttf
+2;1
+InputSansNarrow;Input Sans Narrow
+0;InputSansNarrow-BoldItalic;2;8;4;2;65535;927;272;199;0;1554;1199;1554;1199;0;0;0;4;Bold Italic
+
+File:InputSansNarrow-Bold.ttf
+2;1
+InputSansNarrow;Input Sans Narrow
+0;InputSansNarrow-Bold;0;8;4;2;65535;927;272;199;0;1547;1199;1547;1199;0;0;0;4;Bold
+
+File:InputSansNarrow-Thin.ttf
+2;1
+InputSansNarrow Thin;Input Sans Narrow
+0;InputSansNarrow-Thin;0;3;4;2;65535;927;272;199;0;1377;1199;1377;1199;0;0;0;4;Thin
+
+File:InputSansCondensed-LightItalic.ttf
+2;1
+InputSansCondensed Light;Input Sans Condensed
+0;InputSansCondensed-LightItalic;2;3;3;2;65535;927;272;199;0;1294;1199;1294;1199;0;0;0;4;Light Italic
+
+File:InputSansNarrow-Light.ttf
+2;1
+InputSansNarrow Light;Input Sans Narrow
+0;InputSansNarrow-Light;0;3;4;2;65535;927;272;199;0;1385;1199;1385;1199;0;0;0;4;Light
+
+File:InputMonoCondensed-Medium.ttf
+2;1
+InputMonoCondensed Medium;Input Mono Condensed
+0;InputMonoCondensed-Medium;0;6;3;1;65535;927;272;199;0;973;1199;973;1199;0;0;0;4;Medium
+
+File:InputSerif-BlackItalic.ttf
+2;1
+InputSerif Black;Input Serif
+0;InputSerif-BlackItalic;2;9;5;2;65535;927;272;199;0;1804;1199;1804;1199;0;0;0;4;Black Italic
+
+File:InputSerifCompressed-ExtraLight.ttf
+2;1
+InputSerifCompressed ExLight;Input Serif Compressed
+0;InputSerifCompressed-ExtraLight;0;3;2;2;65535;927;272;199;0;1173;1199;1173;1199;0;0;0;4;Extra Light
+
+File:InputSerif-Medium.ttf
+2;1
+InputSerif Medium;Input Serif
+0;InputSerif-Medium;0;6;5;2;65535;927;272;199;0;1637;1199;1637;1199;0;0;0;4;Medium
+
+File:InputSansCondensed-MediumItalic.ttf
+2;1
+InputSansCondensed Medium;Input Sans Condensed
+0;InputSansCondensed-MediumItalic;2;6;3;2;65535;927;272;199;0;1406;1199;1406;1199;0;0;0;4;Medium Italic
+
+File:InputSerif-ExtraLightItalic.ttf
+2;1
+InputSerif ExLight;Input Serif
+0;InputSerif-ExtraLightItalic;2;3;5;2;65535;927;272;199;0;1553;1199;1553;1199;0;0;0;4;Extra Light Italic
+
+File:InputMonoCondensed-MediumItalic.ttf
+2;1
+InputMonoCondensed Medium;Input Mono Condensed
+0;InputMonoCondensed-MediumItalic;2;6;3;1;65535;927;272;199;0;1020;1199;1020;1199;0;0;0;4;Medium Italic
+
+File:InputSerif-BoldItalic.ttf
+2;1
+InputSerif;Input Serif
+0;InputSerif-BoldItalic;2;8;5;2;65535;927;272;199;0;1736;1199;1736;1199;0;0;0;4;Bold Italic
+
+File:InputSerifCondensed-ThinItalic.ttf
+2;1
+InputSerifCondensed Thin;Input Serif Condensed
+0;InputSerifCondensed-ThinItalic;2;3;3;2;65535;927;272;199;0;1299;1199;1299;1199;0;0;0;4;Thin Italic
+
+File:InputSerif-ThinItalic.ttf
+2;1
+InputSerif Thin;Input Serif
+0;InputSerif-ThinItalic;2;3;5;2;65535;927;272;199;0;1537;1199;1537;1199;0;0;0;4;Thin Italic
+
+File:InputMonoCompressed-ExtraLightItalic.ttf
+2;1
+InputMonoCompressed ExLight;Input Mono Compressed
+0;InputMonoCompressed-ExtraLightItalic;2;3;2;1;65535;927;272;199;0;844;1199;844;1199;0;0;0;4;Extra Light Italic
+
+File:InputSansCondensed-Bold.ttf
+2;1
+InputSansCondensed;Input Sans Condensed
+0;InputSansCondensed-Bold;0;8;3;2;65535;927;272;199;0;1455;1199;1455;1199;0;0;0;4;Bold
+
+File:InputSansNarrow-Regular.ttf
+2;1
+InputSansNarrow;Input Sans Narrow
+0;InputSansNarrow-Regular;0;5;4;2;65535;927;272;199;0;1398;1199;1398;1199;0;0;0;4;Regular
+
+File:InputSerifCondensed-Medium.ttf
+2;1
+InputSerifCondensed Medium;Input Serif Condensed
+0;InputSerifCondensed-Medium;0;6;3;2;65535;927;272;199;0;1413;1199;1413;1199;0;0;0;4;Medium
+
+File:InputMonoCompressed-Italic.ttf
+2;1
+InputMonoCompressed;Input Mono Compressed
+0;InputMonoCompressed-Italic;2;5;2;1;65535;927;272;199;0;877;1199;877;1199;0;0;0;4;Italic
+
+File:VeraSe.ttf
+2;1
+Bitstream Vera Serif
+0;BitstreamVeraSerif-Roman;0;5;5;2;65535;928;235;163;0;1470;1163;1470;1163;0;0;0;4;Roman
+
+File:InputSerifCondensed-BoldItalic.ttf
+2;1
+InputSerifCondensed;Input Serif Condensed
+0;InputSerifCondensed-BoldItalic;2;8;3;2;65535;927;272;199;0;1487;1199;1487;1199;0;0;0;4;Bold Italic
+
+File:InputSerifCondensed-Black.ttf
+2;1
+InputSerifCondensed Black;Input Serif Condensed
+0;InputSerifCondensed-Black;0;9;3;2;65535;927;272;199;0;1614;1199;1614;1199;0;0;0;4;Black
+
+File:InputSerif-Italic.ttf
+2;1
+InputSerif;Input Serif
+0;InputSerif-Italic;2;5;5;2;65535;927;272;199;0;1577;1199;1577;1199;0;0;0;4;Italic
+
+File:InputSerifNarrow-Bold.ttf
+2;1
+InputSerifNarrow;Input Serif Narrow
+0;InputSerifNarrow-Bold;0;8;4;2;65535;927;272;199;0;1555;1199;1555;1199;0;0;0;4;Bold
+
+File:InputSerifCondensed-LightItalic.ttf
+2;1
+InputSerifCondensed Light;Input Serif Condensed
+0;InputSerifCondensed-LightItalic;2;3;3;2;65535;927;272;199;0;1320;1199;1320;1199;0;0;0;4;Light Italic
+
+File:InputSerifCondensed-Light.ttf
+2;1
+InputSerifCondensed Light;Input Serif Condensed
+0;InputSerifCondensed-Light;0;3;3;2;65535;927;272;199;0;1271;1199;1271;1199;0;0;0;4;Light
+
+File:InputSerifCompressed-BoldItalic.ttf
+2;1
+InputSerifCompressed;Input Serif Compressed
+0;InputSerifCompressed-BoldItalic;2;8;2;2;65535;927;272;199;0;1358;1199;1358;1199;0;0;0;4;Bold Italic
+
+File:InputSerifNarrow-Regular.ttf
+2;1
+InputSerifNarrow;Input Serif Narrow
+0;InputSerifNarrow-Regular;0;5;4;2;65535;927;272;199;0;1398;1199;1398;1199;0;0;0;4;Regular
+
+File:InputSerifCompressed-ThinItalic.ttf
+2;1
+InputSerifCompressed Thin;Input Serif Compressed
+0;InputSerifCompressed-ThinItalic;2;3;2;2;65535;927;272;199;0;1177;1199;1177;1199;0;0;0;4;Thin Italic
+
+File:InputSerifNarrow-Black.ttf
+2;1
+InputSerifNarrow Black;Input Serif Narrow
+0;InputSerifNarrow-Black;0;9;4;2;65535;927;272;199;0;1701;1199;1701;1199;0;0;0;4;Black
+
+File:InputSerifNarrow-Italic.ttf
+2;1
+InputSerifNarrow;Input Serif Narrow
+0;InputSerifNarrow-Italic;2;5;4;2;65535;927;272;199;0;1459;1199;1459;1199;0;0;0;4;Italic
+
+File:InputSerifCompressed-MediumItalic.ttf
+2;1
+InputSerifCompressed Medium;Input Serif Compressed
+0;InputSerifCompressed-MediumItalic;2;6;2;2;65535;927;272;199;0;1336;1199;1336;1199;0;0;0;4;Medium Italic
+
+File:InputSansNarrow-ExtraLightItalic.ttf
+2;1
+InputSansNarrow ExLight;Input Sans Narrow
+0;InputSansNarrow-ExtraLightItalic;2;3;4;2;65535;927;272;199;0;1417;1199;1417;1199;0;0;0;4;Extra Light Italic
+
+File:InputSerif-MediumItalic.ttf
+2;1
+InputSerif Medium;Input Serif
+0;InputSerif-MediumItalic;2;6;5;2;65535;927;272;199;0;1709;1199;1709;1199;0;0;0;4;Medium Italic
+
+File:InputSerif-Light.ttf
+2;1
+InputSerif Light;Input Serif
+0;InputSerif-Light;0;3;5;2;65535;927;272;199;0;1499;1199;1499;1199;0;0;0;4;Light
+
+File:InputSerifNarrow-ExtraLight.ttf
+2;1
+InputSerifNarrow ExLight;Input Serif Narrow
+0;InputSerifNarrow-ExtraLight;0;3;4;2;65535;927;272;199;0;1385;1199;1385;1199;0;0;0;4;Extra Light
+
+File:VeraBI.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-BoldOblique;1;8;5;2;65535;928;235;163;0;1677;1163;1677;1163;0;0;0;4;Bold Oblique
+
+File:InputMonoCondensed-Thin.ttf
+2;1
+InputMonoCondensed Thin;Input Mono Condensed
+0;InputMonoCondensed-Thin;0;3;3;1;65535;927;272;199;0;849;1199;849;1199;0;0;0;4;Thin
+
+File:InputSansCondensed-BlackItalic.ttf
+2;1
+InputSansCondensed Black;Input Sans Condensed
+0;InputSansCondensed-BlackItalic;2;9;3;2;65535;927;272;199;0;1602;1199;1602;1199;0;0;0;4;Black Italic
+
+File:InputSerifCondensed-ExtraLightItalic.ttf
+2;1
+InputSerifCondensed ExLight;Input Serif Condensed
+0;InputSerifCondensed-ExtraLightItalic;2;3;3;2;65535;927;272;199;0;1315;1199;1315;1199;0;0;0;4;Extra Light Italic
+
+File:InputSerifCondensed-Thin.ttf
+2;1
+InputSerifCondensed Thin;Input Serif Condensed
+0;InputSerifCondensed-Thin;0;3;3;2;65535;927;272;199;0;1261;1199;1261;1199;0;0;0;4;Thin
+
+File:InputSerif-Thin.ttf
+2;1
+InputSerif Thin;Input Serif
+0;InputSerif-Thin;0;3;5;2;65535;927;272;199;0;1491;1199;1491;1199;0;0;0;4;Thin
+
+File:InputSerifNarrow-BoldItalic.ttf
+2;1
+InputSerifNarrow;Input Serif Narrow
+0;InputSerifNarrow-BoldItalic;2;8;4;2;65535;927;272;199;0;1612;1199;1612;1199;0;0;0;4;Bold Italic
+
+File:InputSansNarrow-Black.ttf
+2;1
+InputSansNarrow Black;Input Sans Narrow
+0;InputSansNarrow-Black;0;9;4;2;65535;927;272;199;0;1701;1199;1701;1199;0;0;0;4;Black
+
+File:InputSansNarrow-LightItalic.ttf
+2;1
+InputSansNarrow Light;Input Sans Narrow
+0;InputSansNarrow-LightItalic;2;3;4;2;65535;927;272;199;0;1414;1199;1414;1199;0;0;0;4;Light Italic
+
+File:InputSansNarrow-BlackItalic.ttf
+2;1
+InputSansNarrow Black;Input Sans Narrow
+0;InputSansNarrow-BlackItalic;2;9;4;2;65535;927;272;199;0;1692;1199;1692;1199;0;0;0;4;Black Italic
+
+File:InputSerifCondensed-MediumItalic.ttf
+2;1
+InputSerifCondensed Medium;Input Serif Condensed
+0;InputSerifCondensed-MediumItalic;2;6;3;2;65535;927;272;199;0;1460;1199;1460;1199;0;0;0;4;Medium Italic
+
+File:InputSerifNarrow-LightItalic.ttf
+2;1
+InputSerifNarrow Light;Input Serif Narrow
+0;InputSerifNarrow-LightItalic;2;3;4;2;65535;927;272;199;0;1438;1199;1438;1199;0;0;0;4;Light Italic
+
+File:InputMonoNarrow-BoldItalic.ttf
+2;1
+InputMonoNarrow;Input Mono Narrow
+0;InputMonoNarrow-BoldItalic;2;8;4;1;65535;927;272;199;0;1130;1199;1130;1199;0;0;0;4;Bold Italic
+
+File:InputSansCondensed-Black.ttf
+2;1
+InputSansCondensed Black;Input Sans Condensed
+0;InputSansCondensed-Black;0;9;3;2;65535;927;272;199;0;1614;1199;1614;1199;0;0;0;4;Black
+
+File:InputSerifCompressed-BlackItalic.ttf
+2;1
+InputSerifCompressed Black;Input Serif Compressed
+0;InputSerifCompressed-BlackItalic;2;9;2;2;65535;927;272;199;0;1508;1199;1508;1199;0;0;0;4;Black Italic
+
+File:InputSerif-LightItalic.ttf
+2;1
+InputSerif Light;Input Serif
+0;InputSerif-LightItalic;2;3;5;2;65535;927;272;199;0;1558;1199;1558;1199;0;0;0;4;Light Italic
+
+File:InputMonoNarrow-ExtraLightItalic.ttf
+2;1
+InputMonoNarrow ExLight;Input Mono Narrow
+0;InputMonoNarrow-ExtraLightItalic;2;3;4;1;65535;927;272;199;0;1007;1199;1007;1199;0;0;0;4;Extra Light Italic
+
+File:InputSerifNarrow-MediumItalic.ttf
+2;1
+InputSerifNarrow Medium;Input Serif Narrow
+0;InputSerifNarrow-MediumItalic;2;6;4;2;65535;927;272;199;0;1585;1199;1585;1199;0;0;0;4;Medium Italic
+
+File:InputSerifCondensed-Bold.ttf
+2;1
+InputSerifCondensed;Input Serif Condensed
+0;InputSerifCondensed-Bold;0;8;3;2;65535;927;272;199;0;1455;1199;1455;1199;0;0;0;4;Bold
+
+File:InputSerif-Bold.ttf
+2;1
+InputSerif;Input Serif
+0;InputSerif-Bold;0;8;5;2;65535;927;272;199;0;1666;1199;1666;1199;0;0;0;4;Bold
+
+File:InputSansCondensed-Thin.ttf
+2;1
+InputSansCondensed Thin;Input Sans Condensed
+0;InputSansCondensed-Thin;0;3;3;2;65535;927;272;199;0;1261;1199;1261;1199;0;0;0;4;Thin
+
+File:InputMonoCondensed-LightItalic.ttf
+2;1
+InputMonoCondensed Light;Input Mono Condensed
+0;InputMonoCondensed-LightItalic;2;3;3;1;65535;927;272;199;0;944;1199;944;1199;0;0;0;4;Light Italic
+
+File:InputSansCompressed-BoldItalic.ttf
+2;1
+InputSansCompressed;Input Sans Compressed
+0;InputSansCompressed-BoldItalic;2;8;2;2;65535;927;272;199;0;1357;1199;1357;1199;0;0;0;4;Bold Italic
+
+File:InputMonoCondensed-ExtraLightItalic.ttf
+2;1
+InputMonoCondensed ExLight;Input Mono Condensed
+0;InputMonoCondensed-ExtraLightItalic;2;3;3;1;65535;927;272;199;0;925;1199;925;1199;0;0;0;4;Extra Light Italic
+
+File:InputSansCompressed-BlackItalic.ttf
+2;1
+InputSansCompressed Black;Input Sans Compressed
+0;InputSansCompressed-BlackItalic;2;9;2;2;65535;927;272;199;0;1508;1199;1508;1199;0;0;0;4;Black Italic
+
+File:InputSerifCompressed-Italic.ttf
+2;1
+InputSerifCompressed;Input Serif Compressed
+0;InputSerifCompressed-Italic;2;5;2;2;65535;927;272;199;0;1218;1199;1218;1199;0;0;0;4;Italic
+
+File:InputMonoCondensed-Light.ttf
+2;1
+InputMonoCondensed Light;Input Mono Condensed
+0;InputMonoCondensed-Light;0;3;3;1;65535;927;272;199;0;892;1199;892;1199;0;0;0;4;Light
+
+File:InputSerifNarrow-Thin.ttf
+2;1
+InputSerifNarrow Thin;Input Serif Narrow
+0;InputSerifNarrow-Thin;0;3;4;2;65535;927;272;199;0;1377;1199;1377;1199;0;0;0;4;Thin
+
+File:InputMonoCompressed-ThinItalic.ttf
+2;1
+InputMonoCompressed Thin;Input Mono Compressed
+0;InputMonoCompressed-ThinItalic;2;3;2;1;65535;927;272;199;0;821;1199;821;1199;0;0;0;4;Thin Italic
+
+File:InputSansCompressed-ExtraLightItalic.ttf
+2;1
+InputSansCompressed ExLight;Input Sans Compressed
+0;InputSansCompressed-ExtraLightItalic;2;3;2;2;65535;927;272;199;0;1182;1199;1182;1199;0;0;0;4;Extra Light Italic
+
+File:InputMono-LightItalic.ttf
+2;1
+InputMono Light;Input Mono
+0;InputMono-LightItalic;2;3;5;1;65535;927;272;199;0;1109;1199;1109;1199;0;0;0;4;Light Italic
+
+File:InputMono-Thin.ttf
+2;1
+InputMono Thin;Input Mono
+0;InputMono-Thin;0;3;5;1;65535;927;272;199;0;984;1199;984;1199;0;0;0;4;Thin
+
+File:InputSerifNarrow-ExtraLightItalic.ttf
+2;1
+InputSerifNarrow ExLight;Input Serif Narrow
+0;InputSerifNarrow-ExtraLightItalic;2;3;4;2;65535;927;272;199;0;1435;1199;1435;1199;0;0;0;4;Extra Light Italic
+
+File:InputMonoCompressed-BoldItalic.ttf
+2;1
+InputMonoCompressed;Input Mono Compressed
+0;InputMonoCompressed-BoldItalic;2;8;2;1;65535;927;272;199;0;957;1199;957;1199;0;0;0;4;Bold Italic
+
+File:InputMonoCondensed-ThinItalic.ttf
+2;1
+InputMonoCondensed Thin;Input Mono Condensed
+0;InputMonoCondensed-ThinItalic;2;3;3;1;65535;927;272;199;0;903;1199;903;1199;0;0;0;4;Thin Italic
+
+File:InputSerif-Black.ttf
+2;1
+InputSerif Black;Input Serif
+0;InputSerif-Black;0;9;5;2;65535;927;272;199;0;1787;1199;1787;1199;0;0;0;4;Black
+
+File:InputMonoCompressed-Thin.ttf
+2;1
+InputMonoCompressed Thin;Input Mono Compressed
+0;InputMonoCompressed-Thin;0;3;2;1;65535;927;272;199;0;779;1199;779;1199;0;0;0;4;Thin
+
+File:InputSansCondensed-ExtraLightItalic.ttf
+2;1
+InputSansCondensed ExLight;Input Sans Condensed
+0;InputSansCondensed-ExtraLightItalic;2;3;3;2;65535;927;272;199;0;1295;1199;1295;1199;0;0;0;4;Extra Light Italic
+
+File:InputSerifCompressed-Bold.ttf
+2;1
+InputSerifCompressed;Input Serif Compressed
+0;InputSerifCompressed-Bold;0;8;2;2;65535;927;272;199;0;1373;1199;1373;1199;0;0;0;4;Bold
+
+File:InputMono-Regular.ttf
+2;1
+InputMono;Input Mono
+0;InputMono-Regular;0;5;5;1;65535;927;272;199;0;1050;1199;1050;1199;0;0;0;4;Regular
+
+File:InputMono-Light.ttf
+2;1
+InputMono Light;Input Mono
+0;InputMono-Light;0;3;5;1;65535;927;272;199;0;1036;1199;1036;1199;0;0;0;4;Light
+
+File:InputSansNarrow-ThinItalic.ttf
+2;1
+InputSansNarrow Thin;Input Sans Narrow
+0;InputSansNarrow-ThinItalic;2;3;4;2;65535;927;272;199;0;1407;1199;1407;1199;0;0;0;4;Thin Italic
+
+File:InputSerifNarrow-BlackItalic.ttf
+2;1
+InputSerifNarrow Black;Input Serif Narrow
+0;InputSerifNarrow-BlackItalic;2;9;4;2;65535;927;272;199;0;1692;1199;1692;1199;0;0;0;4;Black Italic
+
+File:VeraMoBI.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-BoldOb;1;8;5;1;65535;928;235;163;0;754;1163;754;1163;0;0;0;4;Bold Oblique
+
+File:InputMono-ThinItalic.ttf
+2;1
+InputMono Thin;Input Mono
+0;InputMono-ThinItalic;2;3;5;1;65535;927;272;199;0;1063;1199;1063;1199;0;0;0;4;Thin Italic
+
+File:InputSerifCompressed-Black.ttf
+2;1
+InputSerifCompressed Black;Input Serif Compressed
+0;InputSerifCompressed-Black;0;9;2;2;65535;927;272;199;0;1525;1199;1525;1199;0;0;0;4;Black
+
+File:InputSans-ThinItalic.ttf
+2;1
+InputSans Thin;Input Sans
+0;InputSans-ThinItalic;2;3;5;2;65535;927;272;199;0;1529;1199;1529;1199;0;0;0;4;Thin Italic
+
+File:InputSerifNarrow-Medium.ttf
+2;1
+InputSerifNarrow Medium;Input Serif Narrow
+0;InputSerifNarrow-Medium;0;6;4;2;65535;927;272;199;0;1524;1199;1524;1199;0;0;0;4;Medium
+
+File:InputMonoCompressed-Black.ttf
+2;1
+InputMonoCompressed Black;Input Mono Compressed
+0;InputMonoCompressed-Black;0;9;2;1;65535;927;272;199;0;960;1199;960;1199;0;0;0;4;Black
+
+File:InputMono-BoldItalic.ttf
+2;1
+InputMono;Input Mono
+0;InputMono-BoldItalic;2;8;5;1;65535;927;272;199;0;1215;1199;1215;1199;0;0;0;4;Bold Italic
+
+File:InputSansCompressed-ExtraLight.ttf
+2;1
+InputSansCompressed ExLight;Input Sans Compressed
+0;InputSansCompressed-ExtraLight;0;3;2;2;65535;927;272;199;0;1173;1199;1173;1199;0;0;0;4;Extra Light
+
+File:InputSerifCompressed-LightItalic.ttf
+2;1
+InputSerifCompressed Light;Input Serif Compressed
+0;InputSerifCompressed-LightItalic;2;3;2;2;65535;927;272;199;0;1200;1199;1200;1199;0;0;0;4;Light Italic
+
+FontCacheDirectory:1451000562:/usr/share/fonts/noto
+File:NotoSansTelugu-Bold.ttf
+2;1
+Noto Sans Telugu
+0;NotoSansTelugu-Bold;0;8;5;2;65535;869;482;351;0;3173;1351;3173;1351;0;0;0;0;Bold
+
+File:NotoSansCham-Bold.ttf
+2;1
+Noto Sans Cham
+0;NotoSansCham-Bold;0;8;5;2;65535;976;244;220;0;1758;1220;1758;1220;0;0;0;0;Bold
+
+File:NotoSansHebrew-Regular.ttf
+2;1
+Noto Sans Hebrew
+0;NotoSansHebrew;0;5;5;2;65535;1068;292;360;0;1052;1360;1052;1360;0;0;0;0;Regular
+
+File:NotoSansTamilUI-Bold.ttf
+2;1
+Noto Sans Tamil UI
+0;NotoSansTamilUI-Bold;0;8;5;2;65535;1068;292;360;0;3001;1360;3001;1360;0;0;0;0;Bold
+
+File:NotoSansLaoUI-Regular.ttf
+2;1
+Noto Sans Lao UI
+0;NotoSansLaoUI;0;5;5;2;65535;1056;270;326;0;1397;1326;1397;1326;0;0;0;0;Regular
+
+File:NotoSans-BoldItalic.ttf
+2;1
+Noto Sans
+0;NotoSans-BoldItalic;2;8;5;2;65535;1068;292;360;0;1805;1360;1805;1360;0;0;0;0;Bold Italic
+
+File:NotoSansGujaratiUI-Regular.ttf
+2;1
+Noto Sans Gujarati UI
+0;NotoSansGujaratiUI;0;5;5;2;65535;1068;292;360;0;1849;1360;1849;1360;0;0;0;0;Regular
+
+File:NotoNaskhArabic-Bold.ttf
+2;1
+Noto Naskh Arabic
+0;NotoNaskhArabic-Bold;0;8;5;2;65535;1068;633;701;0;2493;1701;2493;1701;0;0;0;0;Bold
+
+File:NotoSerifLao-Bold.ttf
+2;1
+Noto Serif Lao
+0;NotoSerifLao-Bold;0;8;5;2;65535;1049;292;341;0;1604;1341;1604;1341;0;0;0;0;Bold
+
+File:NotoSansHebrew-Bold.ttf
+2;1
+Noto Sans Hebrew
+0;NotoSansHebrew-Bold;0;8;5;2;65535;1068;292;360;0;1086;1360;1086;1360;0;0;0;0;Bold
+
+File:NotoSerif-BoldItalic.ttf
+2;1
+Noto Serif
+0;NotoSerif-BoldItalic;2;8;5;2;65535;1068;292;360;0;1967;1360;1967;1360;0;0;0;0;Bold Italic
+
+File:NotoSansThaana-Regular.ttf
+2;1
+Noto Sans Thaana
+0;NotoSansThaana;0;5;5;2;65535;1068;530;598;0;2103;1598;2103;1598;0;0;0;0;Regular
+
+File:NotoSansGurmukhiUI-Bold.ttf
+2;1
+Noto Sans Gurmukhi UI
+0;NotoSansGurmukhiUI-Bold;0;8;5;2;65535;1068;292;360;0;2255;1360;2255;1360;0;0;0;0;Bold
+
+File:NotoSansDevanagariUI-Regular.ttf
+2;1
+Noto Sans Devanagari UI
+0;NotoSansDevanagariUI;0;5;5;2;65535;1068;292;360;0;2013;1360;2013;1360;0;0;0;0;Regular
+
+File:NotoKufiArabic-Regular.ttf
+2;1
+Noto Kufi Arabic
+0;NotoKufiArabic;0;5;5;2;65535;1281;615;896;0;1752;1896;1752;1896;0;0;0;0;Regular
+
+File:NotoSerifGeorgian-Bold.ttf
+2;1
+Noto Serif Georgian
+0;NotoSerifGeorgian-Bold;0;8;5;2;65535;1068;292;360;0;1098;1360;1098;1360;0;0;0;0;Bold
+
+File:NotoSerif-Bold.ttf
+2;1
+Noto Serif
+0;NotoSerif-Bold;0;8;5;2;65535;1068;292;360;0;2059;1360;2059;1360;0;0;0;0;Bold
+
+File:NotoSansLaoUI-Bold.ttf
+2;1
+Noto Sans Lao UI
+0;NotoSansLaoUI-Bold;0;8;5;2;65535;1056;270;326;0;1673;1326;1673;1326;0;0;0;0;Bold
+
+File:NotoSansLao-Bold.ttf
+2;1
+Noto Sans Lao
+0;NotoSansLao-Bold;0;8;5;2;65535;1025;390;415;0;1673;1415;1673;1415;0;0;0;0;Bold
+
+File:NotoSansKannadaUI-Regular.ttf
+2;1
+Noto Sans Kannada UI
+0;NotoSansKannadaUI;0;5;5;2;65535;1068;292;360;0;2161;1360;2161;1360;0;0;0;0;Regular
+
+File:NotoKufiArabic-Bold.ttf
+2;1
+Noto Kufi Arabic
+0;NotoKufiArabic-Bold;0;8;5;2;65535;1281;615;896;0;2070;1896;2070;1896;0;0;0;0;Bold
+
+File:NotoSerifThai-Bold.ttf
+2;1
+Noto Serif Thai
+0;NotoSerifThai-Bold;0;8;5;2;65535;1116;255;371;0;1679;1371;1679;1371;0;0;0;0;Bold
+
+File:NotoSans-Italic.ttf
+2;1
+Noto Sans
+0;NotoSans-Italic;2;5;5;2;65535;1068;292;360;0;1733;1360;1733;1360;0;0;0;0;Italic
+
+File:NotoSans-Regular.ttf
+2;1
+Noto Sans
+0;NotoSans;0;5;5;2;65535;1068;292;360;0;1877;1360;1877;1360;0;0;0;0;Regular
+
+File:NotoSerifArmenian-Bold.ttf
+2;1
+Noto Serif Armenian
+0;NotoSerifArmenian-Bold;0;8;5;2;65535;1068;292;360;0;1542;1360;1542;1360;0;0;0;0;Bold
+
+File:NotoSansLao-Regular.ttf
+2;1
+Noto Sans Lao
+0;NotoSansLao;0;5;5;2;65535;1025;390;415;0;1397;1415;1397;1415;0;0;0;0;Regular
+
+File:NotoSansTamil-Bold.ttf
+2;1
+Noto Sans Tamil
+0;NotoSansTamil-Bold;0;8;5;2;65535;870;370;240;0;3001;1240;3001;1240;0;0;0;0;Bold
+
+File:NotoSansGujarati-Bold.ttf
+2;1
+Noto Sans Gujarati
+0;NotoSansGujarati-Bold;0;8;5;2;65535;896;408;304;0;2072;1304;2072;1304;0;0;0;0;Bold
+
+File:NotoNaskhArabicUI-Bold.ttf
+2;1
+Noto Naskh Arabic UI
+0;NotoNaskhArabicUI-Bold;0;8;5;2;65535;1068;292;360;0;2493;1360;2493;1360;0;0;0;0;Bold
+
+File:NotoSansBengaliUI-Regular.ttf
+2;1
+Noto Sans Bengali UI
+0;NotoSansBengaliUI;0;5;5;2;65535;1068;292;360;0;2224;1360;2224;1360;0;0;0;0;Regular
+
+File:NotoSansKannadaUI-Bold.ttf
+2;1
+Noto Sans Kannada UI
+0;NotoSansKannadaUI-Bold;0;8;5;2;65535;1068;292;360;0;2337;1360;2337;1360;0;0;0;0;Bold
+
+File:NotoSansMyanmar-Bold.ttf
+2;1
+Noto Sans Myanmar
+0;NotoSansMyanmar-Bold;0;8;5;2;65535;1324;860;1184;0;3290;2184;3290;2184;0;0;0;0;Bold
+
+File:NotoSansGeorgian-Regular.ttf
+2;1
+Noto Sans Georgian
+0;NotoSansGeorgian;0;5;5;2;65535;1068;292;360;0;1114;1360;1114;1360;0;0;0;0;Regular
+
+File:NotoSansTibetan-Regular.ttf
+2;1
+Noto Sans Tibetan
+0;NotoSansTibetan;0;5;5;2;65535;1214;918;1132;0;2433;2132;2433;2132;0;0;0;0;Regular
+
+File:NotoSansUI-Regular.ttf
+2;1
+Noto Sans UI
+0;NotoSansUI;0;5;5;2;65535;1068;292;360;0;1877;1360;1877;1360;0;0;0;0;Regular
+
+File:NotoSerifArmenian-Regular.ttf
+2;1
+Noto Serif Armenian
+0;NotoSerifArmenian;0;5;5;2;65535;1068;292;360;0;1440;1360;1440;1360;0;0;0;0;Regular
+
+File:NotoSerifKhmer-Regular.ttf
+2;1
+Noto Serif Khmer
+0;NotoSerifKhmer;0;5;5;2;65535;1220;585;805;0;3963;1805;3963;1805;0;0;0;0;Regular
+
+File:NotoSansGurmukhi-Bold.ttf
+2;1
+Noto Sans Gurmukhi
+0;NotoSansGurmukhi-Bold;0;8;5;2;65535;896;408;304;0;2282;1304;2282;1304;0;0;0;0;Bold
+
+File:NotoSansKannada-Regular.ttf
+2;1
+Noto Sans Kannada
+0;NotoSansKannada;0;5;5;2;65535;808;539;347;0;2161;1347;2161;1347;0;0;0;0;Regular
+
+File:NotoSansGujarati-Regular.ttf
+2;1
+Noto Sans Gujarati
+0;NotoSansGujarati;0;5;5;2;65535;896;408;304;0;1923;1304;1923;1304;0;0;0;0;Regular
+
+File:NotoSansKannada-Bold.ttf
+2;1
+Noto Sans Kannada
+0;NotoSansKannada-Bold;0;8;5;2;65535;808;539;347;0;2337;1347;2337;1347;0;0;0;0;Bold
+
+File:NotoSansKhmerUI-Bold.ttf
+2;1
+Noto Sans Khmer UI
+0;NotoSansKhmerUI-Bold;0;8;5;2;65535;1068;292;360;0;3192;1360;3192;1360;0;0;0;0;Bold
+
+File:NotoSansCham-Regular.ttf
+2;1
+Noto Sans Cham
+0;NotoSansCham;0;5;5;2;65535;976;244;220;0;1767;1220;1767;1220;0;0;0;0;Regular
+
+File:NotoSerifThai-Regular.ttf
+2;1
+Noto Serif Thai
+0;NotoSerifThai;0;5;5;2;65535;1116;255;371;0;1587;1371;1587;1371;0;0;0;0;Regular
+
+File:NotoSansKhmerUI-Regular.ttf
+2;1
+Noto Sans Khmer UI
+0;NotoSansKhmerUI;0;5;5;2;65535;1068;292;360;0;3142;1360;3142;1360;0;0;0;0;Regular
+
+File:NotoSansGeorgian-Bold.ttf
+2;1
+Noto Sans Georgian
+0;NotoSansGeorgian-Bold;0;8;5;2;65535;1068;292;360;0;1167;1360;1167;1360;0;0;0;0;Bold
+
+File:NotoSans-Bold.ttf
+2;1
+Noto Sans
+0;NotoSans-Bold;0;8;5;2;65535;1068;292;360;0;2060;1360;2060;1360;0;0;0;0;Bold
+
+File:NotoSansOriya-Bold.ttf
+2;1
+Noto Sans Oriya
+0;NotoSansOriya-Bold;0;8;5;2;65535;916;483;399;0;1847;1399;1847;1399;0;0;0;0;Bold
+
+File:NotoSansGurmukhi-Regular.ttf
+2;1
+Noto Sans Gurmukhi
+0;NotoSansGurmukhi;0;5;5;2;65535;896;408;304;0;2059;1304;2059;1304;0;0;0;0;Regular
+
+File:NotoSansDevanagari-Bold.ttf
+2;1
+Noto Sans Devanagari
+0;NotoSansDevanagari-Bold;0;8;5;2;65535;896;408;304;0;2229;1304;2229;1304;0;0;0;0;Bold
+
+File:NotoSansDevanagariUI-Bold.ttf
+2;1
+Noto Sans Devanagari UI
+0;NotoSansDevanagariUI-Bold;0;8;5;2;65535;1068;292;360;0;2229;1360;2229;1360;0;0;0;0;Bold
+
+File:NotoSansKhmer-Bold.ttf
+2;1
+Noto Sans Khmer
+0;NotoSansKhmer-Bold;0;8;5;2;65535;931;390;321;0;3192;1321;3192;1321;0;0;0;0;Bold
+
+File:NotoSansKhmer-Regular.ttf
+2;1
+Noto Sans Khmer
+0;NotoSansKhmer;0;5;5;2;65535;931;390;321;0;3142;1321;3142;1321;0;0;0;0;Regular
+
+File:NotoSansEthiopic-Bold.ttf
+2;1
+Noto Sans Ethiopic
+0;NotoSansEthiopic-Bold;0;8;5;2;65535;1068;292;360;0;1816;1360;1816;1360;0;0;0;0;Bold
+
+File:NotoSansGujaratiUI-Bold.ttf
+2;1
+Noto Sans Gujarati UI
+0;NotoSansGujaratiUI-Bold;0;8;5;2;65535;1068;292;360;0;2009;1360;2009;1360;0;0;0;0;Bold
+
+File:NotoSansOriya-Regular.ttf
+2;1
+Noto Sans Oriya
+0;NotoSansOriya;0;5;5;2;65535;916;483;399;0;1678;1399;1678;1399;0;0;0;0;Regular
+
+File:NotoSansArmenian-Regular.ttf
+2;1
+Noto Sans Armenian
+0;NotoSansArmenian;0;5;5;2;65535;1068;292;360;0;1469;1360;1469;1360;0;0;0;0;Regular
+
+File:NotoSansEthiopic-Regular.ttf
+2;1
+Noto Sans Ethiopic
+0;NotoSansEthiopic;0;5;5;2;65535;1068;292;360;0;1671;1360;1671;1360;0;0;0;0;Regular
+
+File:NotoSansThai-Regular.ttf
+2;1
+Noto Sans Thai
+0;NotoSansThai;0;5;5;2;65535;1116;255;371;0;1675;1371;1675;1371;0;0;0;0;Regular
+
+File:NotoSansMyanmarUI-Regular.ttf
+2;1
+Noto Sans Myanmar UI
+0;NotoSansMyanmarUI;0;5;5;2;65535;1068;292;360;0;3263;1360;3263;1360;0;0;0;0;Regular
+
+File:NotoNaskhArabic-Regular.ttf
+2;1
+Noto Naskh Arabic
+0;NotoNaskhArabic;0;5;5;2;65535;1068;633;701;0;2396;1701;2396;1701;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Bold.ttf
+2;1
+Noto Sans Malayalam
+0;NotoSansMalayalam-Bold;0;8;5;2;65535;870;382;252;0;3494;1252;3494;1252;0;0;0;0;Bold
+
+File:NotoSansArmenian-Bold.ttf
+2;1
+Noto Sans Armenian
+0;NotoSansArmenian-Bold;0;8;5;2;65535;1068;292;360;0;1596;1360;1596;1360;0;0;0;0;Bold
+
+File:NotoSansBengali-Bold.ttf
+2;1
+Noto Sans Bengali
+0;NotoSansBengali-Bold;0;8;5;2;65535;916;408;324;0;2392;1324;2392;1324;0;0;0;0;Bold
+
+File:NotoMono-Regular.ttf
+2;1
+Noto Mono
+0;NotoMono;0;5;5;1;65535;927;244;171;0;794;1171;794;1171;0;0;0;0;Regular
+
+File:NotoSansBengali-Regular.ttf
+2;1
+Noto Sans Bengali
+0;NotoSansBengali;0;5;5;2;65535;916;408;324;0;2224;1324;2224;1324;0;0;0;0;Regular
+
+File:NotoSansBengaliUI-Bold.ttf
+2;1
+Noto Sans Bengali UI
+0;NotoSansBengaliUI-Bold;0;8;5;2;65535;1068;292;360;0;2392;1360;2392;1360;0;0;0;0;Bold
+
+File:NotoSansGurmukhiUI-Regular.ttf
+2;1
+Noto Sans Gurmukhi UI
+0;NotoSansGurmukhiUI;0;5;5;2;65535;1068;292;360;0;2103;1360;2103;1360;0;0;0;0;Regular
+
+File:NotoSansDevanagari-Regular.ttf
+2;1
+Noto Sans Devanagari
+0;NotoSansDevanagari;0;5;5;2;65535;896;408;304;0;2013;1304;2013;1304;0;0;0;0;Regular
+
+File:NotoSansMalayalam-Regular.ttf
+2;1
+Noto Sans Malayalam
+0;NotoSansMalayalam;0;5;5;2;65535;870;382;252;0;3141;1252;3141;1252;0;0;0;0;Regular
+
+File:NotoSansMalayalamUI-Bold.ttf
+2;1
+Noto Sans Malayalam UI
+0;NotoSansMalayalamUI-Bold;0;8;5;2;65535;1068;292;360;0;3494;1360;3494;1360;0;0;0;0;Bold
+
+File:NotoSansSinhala-Bold.ttf
+2;1
+Noto Sans Sinhala
+0;NotoSansSinhala-Bold;0;8;5;2;65535;1068;292;360;0;2804;1360;2804;1360;0;0;0;0;Bold
+
+File:NotoSansMalayalamUI-Regular.ttf
+2;1
+Noto Sans Malayalam UI
+0;NotoSansMalayalamUI;0;5;5;2;65535;1068;292;360;0;3141;1360;3141;1360;0;0;0;0;Regular
+
+File:NotoSerifLao-Regular.ttf
+2;1
+Noto Serif Lao
+0;NotoSerifLao;0;5;5;2;65535;1049;292;341;0;1556;1341;1556;1341;0;0;0;0;Regular
+
+File:NotoSansMyanmar-Regular.ttf
+2;1
+Noto Sans Myanmar
+0;NotoSansMyanmar;0;5;5;2;65535;1324;860;1184;0;3263;2184;3263;2184;0;0;0;0;Regular
+
+File:NotoSerif-Regular.ttf
+2;1
+Noto Serif
+0;NotoSerif;0;5;5;2;65535;1068;292;360;0;1918;1360;1918;1360;0;0;0;0;Regular
+
+File:NotoSansMyanmarUI-Bold.ttf
+2;1
+Noto Sans Myanmar UI
+0;NotoSansMyanmarUI-Bold;0;8;5;2;65535;1068;292;360;0;3290;1360;3290;1360;0;0;0;0;Bold
+
+File:NotoSansOriyaUI-Bold.ttf
+2;1
+Noto Sans Oriya UI
+0;NotoSansOriyaUI-Bold;0;8;5;2;65535;1068;292;360;0;1847;1360;1847;1360;0;0;0;0;Bold
+
+File:NotoSansUI-Bold.ttf
+2;1
+Noto Sans UI
+0;NotoSansUI-Bold;0;8;5;2;65535;1068;292;360;0;2060;1360;2060;1360;0;0;0;0;Bold
+
+File:NotoSerif-Italic.ttf
+2;1
+Noto Serif
+0;NotoSerif-Italic;2;5;5;2;65535;1068;292;360;0;1819;1360;1819;1360;0;0;0;0;Italic
+
+File:NotoSansOriyaUI-Regular.ttf
+2;1
+Noto Sans Oriya UI
+0;NotoSansOriyaUI;0;5;5;2;65535;1068;292;360;0;1678;1360;1678;1360;0;0;0;0;Regular
+
+File:NotoSansSinhala-Regular.ttf
+2;1
+Noto Sans Sinhala
+0;NotoSansSinhala;0;5;5;2;65535;1068;292;360;0;2619;1360;2619;1360;0;0;0;0;Regular
+
+File:NotoSansUI-Italic.ttf
+2;1
+Noto Sans UI
+0;NotoSansUI-Italic;2;5;5;2;65535;1068;292;360;0;1733;1360;1733;1360;0;0;0;0;Italic
+
+File:NotoSansTamil-Regular.ttf
+2;1
+Noto Sans Tamil
+0;NotoSansTamil;0;5;5;2;65535;870;370;240;0;2617;1240;2617;1240;0;0;0;0;Regular
+
+File:NotoSansTamilUI-Regular.ttf
+2;1
+Noto Sans Tamil UI
+0;NotoSansTamilUI;0;5;5;2;65535;1068;292;360;0;2617;1360;2617;1360;0;0;0;0;Regular
+
+File:NotoSerifGeorgian-Regular.ttf
+2;1
+Noto Serif Georgian
+0;NotoSerifGeorgian;0;5;5;2;65535;1068;292;360;0;1081;1360;1081;1360;0;0;0;0;Regular
+
+File:NotoSerifKhmer-Bold.ttf
+2;1
+Noto Serif Khmer
+0;NotoSerifKhmer-Bold;0;8;5;2;65535;1220;585;805;0;4082;1805;4082;1805;0;0;0;0;Bold
+
+File:NotoSansTeluguUI-Bold.ttf
+2;1
+Noto Sans Telugu UI
+0;NotoSansTeluguUI-Bold;0;8;5;2;65535;1068;292;360;0;3173;1360;3173;1360;0;0;0;0;Bold
+
+File:NotoSansUI-BoldItalic.ttf
+2;1
+Noto Sans UI
+0;NotoSansUI-BoldItalic;2;8;5;2;65535;1068;292;360;0;1805;1360;1805;1360;0;0;0;0;Bold Italic
+
+File:NotoSansTibetan-Bold.ttf
+2;1
+Noto Sans Tibetan
+0;NotoSansTibetan-Bold;0;8;5;2;65535;1270;1106;1376;0;2513;2376;2513;2376;0;0;0;0;Bold
+
+File:NotoNaskhArabicUI-Regular.ttf
+2;1
+Noto Naskh Arabic UI
+0;NotoNaskhArabicUI;0;5;5;2;65535;1068;292;360;0;2396;1360;2396;1360;0;0;0;0;Regular
+
+File:NotoSansTelugu-Regular.ttf
+2;1
+Noto Sans Telugu
+0;NotoSansTelugu;0;5;5;2;65535;869;482;351;0;3034;1351;3034;1351;0;0;0;0;Regular
+
+File:NotoSansTeluguUI-Regular.ttf
+2;1
+Noto Sans Telugu UI
+0;NotoSansTeluguUI;0;5;5;2;65535;1068;292;360;0;3034;1360;3034;1360;0;0;0;0;Regular
+
+File:NotoSansThaana-Bold.ttf
+2;1
+Noto Sans Thaana
+0;NotoSansThaana-Bold;0;8;5;2;65535;1068;530;598;0;2103;1598;2103;1598;0;0;0;0;Bold
+
+File:NotoSansThai-Bold.ttf
+2;1
+Noto Sans Thai
+0;NotoSansThai-Bold;0;8;5;2;65535;1116;255;371;0;1761;1371;1761;1371;0;0;0;0;Bold
+
+File:NotoSansThaiUI-Bold.ttf
+2;1
+Noto Sans Thai UI
+0;NotoSansThaiUI-Bold;0;8;5;2;65535;1068;292;360;0;1761;1360;1761;1360;0;0;0;0;Bold
+
+File:NotoSansThaiUI-Regular.ttf
+2;1
+Noto Sans Thai UI
+0;NotoSansThaiUI;0;5;5;2;65535;1068;292;360;0;1675;1360;1675;1360;0;0;0;0;Regular
+
+FontCacheDirectory:1469001813:/usr/share/fonts
+File:TravelingTypewriter.ttf
+2;1
+Traveling _Typewriter
+0;TravelingTypewriter;0;5;5;2;65535;976;285;261;0;1210;1261;1210;1261;0;0;0;4;Regular
+
+File:Shorelines Script Bold.otf
+2;1
+Shorelines Script Bold
+0;ShorelinesScriptBold;0;5;5;2;65535;1480;729;1209;0;7853;2209;7853;2209;0;0;0;0;Regular
+
+File:fontawesome-webfont.ttf
+2;1
+FontAwesome
+0;FontAwesome;0;5;5;2;65535;857;142;-1;0;1286;999;1286;999;0;0;0;0;Regular
+
+FontCacheDirectory:1467966628:/usr/share/fonts/oiio
+File:DroidSerif-Italic.ttf
+2;1
+Droid Serif
+0;DroidSerif-Italic;2;5;5;2;65535;931;240;171;0;1379;1171;1379;1171;0;0;0;8;Italic
+
+File:DroidSerif.ttf
+2;1
+Droid Serif
+0;DroidSerif;0;5;5;2;65535;931;240;171;0;1218;1171;1218;1171;0;0;0;8;Regular
+
+File:DroidSans-Bold.ttf
+2;1
+Droid Sans
+0;DroidSans-Bold;0;8;5;2;65535;931;240;171;0;1150;1171;1150;1171;0;0;0;8;Bold
+
+File:DroidSansMono.ttf
+2;1
+Droid Sans Mono
+0;DroidSansMono;0;5;5;1;65535;1056;270;326;0;794;1326;794;1326;0;0;0;8;Regular
+
+File:DroidSerif-Bold.ttf
+2;1
+Droid Serif
+0;DroidSerif-Bold;0;8;5;2;65535;931;240;171;0;1252;1171;1252;1171;0;0;0;8;Bold
+
+File:DroidSerif-BoldItalic.ttf
+2;1
+Droid Serif
+0;DroidSerif-BoldItalic;2;8;5;2;65535;931;240;171;0;1431;1171;1431;1171;0;0;0;8;Bold Italic
+
+File:DroidSans.ttf
+2;1
+Droid Sans
+0;DroidSans;0;5;5;2;65535;931;240;171;0;1130;1171;1130;1171;0;0;0;8;Regular
+
+FontCacheDirectory:1467966647:/usr/lib/libreoffice/share/fonts/truetype
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+FontCacheDirectory:1463824258:/usr/share/fonts/Emoji One Color
+File:EmojiOneColor-SVGinOT.ttf
+2;1
+Emoji One Color
+0;EmojiOneColorSVGinOT;0;5;5;2;65535;845;101;-54;0;948;946;948;946;0;0;0;0;Regular
+
+FontCacheDirectory:1462650541:/usr/share/fonts/steam-fonts
+File:ARIALNI.TTF
+2;1
+Arial Narrow
+0;ArialNarrow-Italic;2;5;3;2;65535;914;210;124;0;1213;1124;1213;1124;0;0;0;8;Narrow
+
+File:ARIALNB.TTF
+2;1
+Arial Narrow
+0;ArialNarrow-Bold;0;8;3;2;65535;932;210;142;0;1136;1142;1136;1142;0;0;0;8;Narrow
+
+File:ARIALN.TTF
+2;1
+Arial Narrow
+0;ArialNarrow;0;5;3;2;65535;921;210;131;0;1181;1131;1181;1131;0;0;0;8;Narrow
+
+File:arialbd.ttf
+2;1
+Arial
+0;Arial-BoldMT;0;8;5;2;65535;905;211;116;0;2627;1116;2627;1116;0;0;0;8;Bold
+
+File:ariali.ttf
+2;1
+Arial
+0;Arial-ItalicMT;2;5;5;2;65535;905;211;116;0;1875;1116;1875;1116;0;0;0;8;Italic
+
+File:arial.ttf
+2;1
+Arial
+0;ArialMT;0;5;5;2;65535;905;211;116;0;2664;1116;2664;1116;0;0;0;8;Regular
+
+File:arialbi.ttf
+2;1
+Arial
+0;Arial-BoldItalicMT;2;8;5;2;65535;905;211;116;0;1949;1116;1949;1116;0;0;0;8;Bold Italic
+
+File:ariblk.ttf
+2;1
+Arial Black
+0;Arial-Black;0;10;5;2;65535;1100;309;409;0;1880;1409;1880;1409;0;0;0;8;Black
+
+File:ARIALNBI.TTF
+2;1
+Arial Narrow
+0;ArialNarrow-BoldItalic;2;8;3;2;65535;935;211;146;0;1202;1146;1202;1146;0;0;0;8;Narrow
+
+FontCacheDirectory:1461439099:/usr/share/fonts/OTF
+File:SyrCOMNisibinOutline.otf
+2;1
+Estrangelo Nisibin Outline
+0;EstrangeloNisibinOutline;0;5;5;2;65535;781;316;97;0;1010;1097;1010;1097;0;0;0;12;Regular
+
+File:SyrCOMJerusalemBold.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemBold;0;8;5;2;65535;761;316;77;0;1255;1077;1255;1077;0;0;0;12;Bold
+
+File:SyrCOMAdiabene.otf
+2;1
+East Syriac Adiabene
+0;EastSyriacAdiabene;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+File:SyrCOMCtesiphon.otf
+2;1
+East Syriac Ctesiphon
+0;EastSyriacCtesiphon;0;5;5;2;65535;761;323;84;0;1000;1084;1000;1084;0;0;0;12;Regular
+
+File:SyrCOMAntioch.otf
+2;1
+Estrangelo Antioch
+0;EstrangeloAntioch;0;5;5;2;65535;761;316;77;0;1374;1077;1374;1077;0;0;0;12;Regular
+
+File:SyrCOMMardinBold.otf
+2;1
+Serto Mardin
+0;SertoMardinBold;0;8;5;2;65535;761;316;77;0;1168;1077;1168;1077;0;0;0;12;Bold
+
+File:SyrCOMBatnanBold.otf
+2;1
+Serto Batnan
+0;SertoBatnanBold;0;8;5;2;65535;761;316;77;0;1243;1077;1243;1077;0;0;0;12;Bold
+
+File:GohaTibebZemen.otf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1212;991;1212;991;0;0;0;65536;Regular
+
+File:SyrCOMTurAbdin.otf
+2;1
+Estrangelo TurAbdin
+0;EstrangeloTurAbdin;0;5;5;2;65535;761;316;77;0;1020;1077;1020;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalem.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalem;0;5;5;2;65535;761;316;77;0;1180;1077;1180;1077;0;0;0;12;Regular
+
+File:SyrCOMUrhoyBold.otf
+2;1
+Serto Urhoy
+0;SertoUrhoyBold;0;8;5;2;65535;761;360;121;0;1170;1121;1170;1121;0;0;0;12;Bold
+
+File:SyrCOMQenNeshrin.otf
+2;1
+Estrangelo Quenneshrin
+0;EstrangeloQuenneshrin;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+File:SyrCOMTalada.otf
+2;1
+Estrangelo Talada
+0;EstrangeloTalada;0;5;5;2;65535;761;316;77;0;1795;1077;1795;1077;0;0;0;12;Regular
+
+File:SyrCOMMidyat.otf
+2;1
+Estrangelo Midyat
+0;EstrangeloMidyat;0;5;5;2;65535;761;316;77;0;1231;1077;1231;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalemOutline.otf
+2;1
+Serto Jerusalem Outline
+0;SertoJerusalemOutline;0;5;5;2;65535;781;316;97;0;1275;1097;1275;1097;0;0;0;12;Regular
+
+File:SyrCOMNisibin.otf
+2;1
+Estrangelo Nisibin
+0;EstrangeloNisibin;0;5;5;2;65535;761;316;77;0;1000;1077;1000;1077;0;0;0;12;Regular
+
+File:SyrCOMBatnan.otf
+2;1
+Serto Batnan
+0;SertoBatnan;0;5;5;2;65535;761;316;77;0;1141;1077;1141;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalemItalic.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemItalic;2;5;5;2;65535;761;316;77;0;1353;1077;1353;1077;0;0;0;12;Italic
+
+File:SyrCOMKharput.otf
+2;1
+Serto Kharput
+0;SertoKharput;0;5;5;2;65535;761;328;89;0;1132;1089;1132;1089;0;0;0;12;Regular
+
+File:SyrCOMMalankara.otf
+2;1
+Serto Malankara
+0;SertoMalankara;0;5;5;2;65535;761;355;116;0;1009;1116;1009;1116;0;0;0;12;Regular
+
+File:SyrCOMMardin.otf
+2;1
+Serto Mardin
+0;SertoMardin;0;5;5;2;65535;761;316;77;0;1146;1077;1146;1077;0;0;0;12;Regular
+
+File:SyrCOMUrhoy.otf
+2;1
+Serto Urhoy
+0;SertoUrhoy;0;5;5;2;65535;761;360;121;0;1158;1121;1158;1121;0;0;0;12;Regular
+
+File:SyrCOMEdessa.otf
+2;1
+Estrangelo Edessa
+0;EstrangeloEdessa;0;5;5;2;65535;700;299;-1;0;1321;999;1321;999;0;0;0;0;Regular
+
+FontCacheDirectory:1462118835:/usr/share/fonts/Type1
+File:p052004l.pfb
+1;1
+Palladio URW
+0;PalladioURW-Bol;0;8;5;2;91;935;301;236;0;1000;681;1000;681;0;0;0;p052004l.afm;Bold
+
+File:d050000l.pfb
+1;1
+Dingbats
+0;Dingbats;0;5;5;2;10;819;143;-38;0;981;691;981;691;0;0;0;d050000l.afm;Regular
+
+File:p052023l.pfb
+1;1
+Palladio URW
+0;PalladioURW-Ita;2;5;5;2;91;940;305;245;0;1010;692;1010;692;0;0;0;p052023l.afm;Italic
+
+File:n022003l.pfb
+1;1
+Nimbus Mono
+0;NimbusMono-Regular;0;5;5;1;91;940;323;263;0;677;563;677;563;0;0;0;n022003l.afm;Regular
+
+File:n019064l.pfb
+1;1
+Nimbus Sans Narrow
+0;NimbusSanNar-BolIta;2;8;5;2;91;953;309;262;0;923;729;923;729;0;0;0;n019064l.afm;Bold Italic
+
+File:b018015l.pfb
+1;1
+Bookman URW
+0;BookmanURW-DemBol;0;8;5;2;91;927;306;233;0;1346;681;1346;681;0;0;0;b018015l.afm;Demi Bold
+
+File:n019063l.pfb
+1;1
+Nimbus Sans Narrow
+0;NimbusSanNar-Ita;2;5;5;2;91;953;284;237;0;923;729;923;729;0;0;0;n019063l.afm;Italic
+
+File:n021024l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-MedIta;2;8;5;2;91;972;321;293;0;1154;669;1154;669;0;0;0;n021024l.afm;Medium Italic
+
+File:a010015l.pfb
+1;1
+URW Gothic
+0;URWGothic-Dem;0;7;5;2;91;1000;251;251;0;1248;739;1248;739;0;0;0;a010015l.afm;Demi
+
+File:n021004l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-Med;0;8;5;2;91;1044;334;378;0;1079;662;1079;662;0;0;0;n021004l.afm;Medium
+
+File:b018035l.pfb
+1;1
+Bookman URW
+0;BookmanURW-DemBolIta;2;8;5;2;91;927;332;259;0;1333;681;1333;681;0;0;0;b018035l.afm;Demi Bold Italic
+
+File:n019024l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-BolIta;2;8;5;2;91;1073;309;382;0;1196;729;1196;729;0;0;0;n019024l.afm;Bold Italic
+
+File:n019004l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-Bol;0;8;5;2;91;1070;327;397;0;1069;729;1069;729;0;0;0;n019004l.afm;Bold
+
+File:c059036l.pfb
+1;1
+Century SchoolBook URW
+0;CenturySchURW-BolIta;2;8;5;2;91;998;371;369;0;1162;722;1162;722;0;0;0;c059036l.afm;Bold Italic
+
+File:z003034l.pfb
+1;1
+Chancery URW
+0;ChanceryURW-MedIta;2;6;5;2;91;913;290;203;0;1078;573;1078;573;0;0;0;z003034l.afm;Medium Italic
+
+File:n019044l.pfb
+1;1
+Nimbus Sans Narrow
+0;NimbusSanNar-Bol;0;8;5;2;91;949;307;256;0;822;729;822;729;0;0;0;n019044l.afm;Bold
+
+File:n021023l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-RegIta;2;5;5;2;91;951;299;250;0;1085;653;1085;653;0;0;0;n021023l.afm;Regular Italic
+
+File:c059016l.pfb
+1;1
+Century SchoolBook URW
+0;CenturySchURW-Bol;0;8;5;2;91;1005;372;377;0;1171;722;1171;722;0;0;0;c059016l.afm;Bold
+
+File:b018032l.pfb
+1;1
+Bookman URW
+0;BookmanURW-LigIta;2;5;5;2;91;930;281;211;0;1269;681;1269;681;0;0;0;b018032l.afm;Light Italic
+
+File:n022024l.pfb
+1;1
+Nimbus Mono
+0;NimbusMono-BoldOblique;1;8;5;1;91;1036;417;453;0;840;583;840;583;0;0;0;n022024l.afm;Bold Oblique
+
+File:c059033l.pfb
+1;1
+Century SchoolBook URW
+0;CenturySchURW-Ita;2;5;5;2;91;966;329;295;0;1053;722;1053;722;0;0;0;c059033l.afm;Italic
+
+File:n022004l.pfb
+1;1
+Nimbus Mono
+0;NimbusMono-Bold;0;8;5;1;91;1047;417;464;0;694;583;694;583;0;0;0;n022004l.afm;Bold
+
+File:n019023l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-RegIta;2;5;5;2;91;1070;284;354;0;1154;729;1154;729;0;0;0;n019023l.afm;Regular Italic
+
+File:b018012l.pfb
+1;1
+Bookman URW
+0;BookmanURW-Lig;0;5;5;2;91;930;268;198;0;1266;681;1266;681;0;0;0;b018012l.afm;Light
+
+File:a010013l.pfb
+1;1
+URW Gothic
+0;URWGothic-Boo;0;4;5;2;91;976;258;234;0;1151;739;1151;739;0;0;0;a010013l.afm;Book
+
+File:n019043l.pfb
+1;1
+Nimbus Sans Narrow
+0;NimbusSanNar-Reg;0;5;5;2;91;953;299;252;0;821;729;821;729;0;0;0;n019043l.afm;Regular
+
+File:n019003l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-Reg;0;5;5;2;91;1075;299;374;0;1032;729;1032;729;0;0;0;n019003l.afm;Regular
+
+File:p052024l.pfb
+1;1
+Palladio URW
+0;PalladioURW-BolIta;2;8;5;2;91;935;300;235;0;1073;681;1073;681;0;0;0;p052024l.afm;Bold Italic
+
+File:c059013l.pfb
+1;1
+Century SchoolBook URW
+0;CenturySchURW-Rom;0;6;5;2;91;981;309;290;0;1000;722;1000;722;0;0;0;c059013l.afm;Roman
+
+File:s050000l.pfb
+1;1
+Standard Symbols L
+0;StandardSymL;0;5;5;2;10;1010;293;303;0;1090;673;1090;673;0;0;0;s050000l.afm;Regular
+
+File:p052003l.pfb
+1;1
+Palladio URW
+0;PalladioURW-Rom;0;6;5;2;91;943;283;226;0;1021;692;1021;692;0;0;0;p052003l.afm;Roman
+
+File:a010033l.pfb
+1;1
+URW Gothic
+0;URWGothic-BooObl;1;4;5;2;91;972;232;204;0;1275;739;1275;739;0;0;0;a010033l.afm;Book Oblique
+
+File:n022023l.pfb
+1;1
+Nimbus Mono
+0;NimbusMono-Oblique;1;5;5;1;91;928;323;251;0;786;563;786;563;0;0;0;n022023l.afm;Oblique
+
+File:a010035l.pfb
+1;1
+URW Gothic
+0;URWGothic-DemObl;1;7;5;2;91;1013;251;264;0;1281;739;1281;739;0;0;0;a010035l.afm;Demi Oblique
+
+File:n021003l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-Reg;0;5;5;2;91;1053;309;362;0;1000;662;1000;662;0;0;0;n021003l.afm;Regular
+

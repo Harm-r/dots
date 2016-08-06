@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#
+# /home/h4rm/.config/pacaur/config
+#
+
+editor="${EDITOR:-vim}"                # build files editor
+displaybuildfiles=none                 # display build files (none|diff|full)
+#fallback=true                         # pacman fallback to the AUR
+#silent=false                          # silence output
+#sortby=popularity                     # sort method (name|votes|popularity)
+#sortorder=descending                  # sort order (ascending|descending)
+#sudoloop=true                         # prevent sudo timeout

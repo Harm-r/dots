@@ -1,0 +1,10 @@
+app.autostart-configured=true
+storage.last-location="/home/h4rm/.cache/spotify/Storage"
+app.autostart-mode=""
+autologin.username="balgehakt1999"
+autologin.saved_credentials="{\"balgehakt1999\":[\"balgehakt1999\",\"diEtOb6uyiNfx9uPfdcWgbXyb/LWqnHHs2xpgOgSiZYZUXzPt+j72ys8iAdFxIY2\"]}"
+core.csrf_tokens="*.spotify.com|32b6bbccc3c53e5fa47d226d710909a6|618036579"
+core.clock_delta=-143
+autologin.canonical_username="balgehakt1999"
+language="nl"
+autologin.blob="diEtOb6uyiNfx9uPfdcWgbXyb/LWqnHHs2xpgOgSiZYZUXzPt+j72ys8iAdFxIY2"
