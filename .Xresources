@@ -1,0 +1,26 @@
+! Enabled modi
+rofi.modi:			window,run,ssh
+! Window opacity
+rofi.opacity:			80
+! Window width
+rofi.width:			50
+! Number of lines
+rofi.lines:			5
+! Border width
+rofi.bw:			0			
+! Separator style
+rofi.separator-style:		solid
+! Hide the scrollbar
+rofi.hide-scrollbar:		true
+
+
+
+! Color setup
+rofi.color-enabled:		true
+rofi.color-window: 		#ff8400, #cacaca, #ff5d5d
+rofi.color-normal: 		#ffd69b, #000000, #ffbf60, #ffa532, #eee8d5
+
+
+
+! XTerm settings
+XTerm*reverseVideo:		on
